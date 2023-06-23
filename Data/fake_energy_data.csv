@@ -1,0 +1,1132 @@
+rowid,consumption,income,floor_area,property_age,tenure,bedrooms,property_type,region,country,adults
+1,20603.4416115086,38397.8089610305,51 to 100,Post 1999,Privately rented,6,end terrace,York and Humber,England,4
+2,12210.2399550382,32742.2937350439,51 to 100,1945 to 1964,Council/Housing Association,4,unknown,North West,England,2
+3,16236.108183192,49932.8480814056,151 to 200,Post 1999,Council/Housing Association,5,purpose built flat,West Midlands,England,3
+4,17406.0510452193,31932.0137694627,101 to 150,1984 to 1992,Owner-occupied,6,end terrace,York and Humber,England,2
+5,16413.7433591282,27745.4251891656,51 to 100,1984 to 1992,Privately rented,7,converted flat,Wales,Wales,3
+6,14201.229059863,40410.0192864878,50 or less,1993 to 1999,Unknown,5,bungalow,West Midlands,England,4
+7,21214.8046736566,43456.9054399587,50 or less,Post 1999,Owner-occupied,5,detached,York and Humber,England,1
+8,14251.2372852649,35253.648182631,50 or less,1919 to 1944,Unknown,4,detached,South West,England,2
+9,23412.4410097392,47588.1203819055,Over 250,1984 to 1992,Privately rented,5,end terrace,North West,England,2
+10,14389.8113190144,19983.1051599917,151 to 200,1993 to 1999,Owner-occupied,4,bungalow,York and Humber,England,2
+11,20319.6456631624,48962.5981936091,101 to 150,1965 to 1983,Privately rented,6,converted flat,West Midlands,England,3
+12,24575.0736502196,47450.6699555819,Over 250,1945 to 1964,Owner-occupied,5,mid terraced,York and Humber,England,2
+13,8639.15238920157,36427.4915284274,50 or less,1919 to 1944,Owner-occupied,5,end terrace,London,England,1
+14,13453.4434597817,26666.5078075615,101 to 150,Post 1999,Owner-occupied,6,purpose built flat,South East,England,5 or more
+15,14081.0005114817,15660.272661878,201 to 250,1919 to 1944,Owner-occupied,5,bungalow,South West,England,5 or more
+16,17417.1006051963,31634.4951796368,201 to 250,1919 to 1944,Privately rented,5,end terrace,South West,England,2
+17,13426.8918926698,23761.5775856281,201 to 250,Post 1999,Unknown,6,bungalow,North West,England,2
+18,3142.23857883642,42910.7329990428,50 or less,Pre 1919,Owner-occupied,6,converted flat,Wales,Wales,5 or more
+19,4078.80989042123,19182.4679234705,50 or less,Pre 1919,Privately rented,4,purpose built flat,East of England,England,2
+20,20382.5551012026,37065.6108184786,151 to 200,1965 to 1983,Privately rented,5,converted flat,North West,England,4
+21,13329.4020950258,42087.5592924206,Over 250,1945 to 1964,Council/Housing Association,5,purpose built flat,North East,England,5 or more
+22,6938.10339329735,31659.0791820069,Over 250,1984 to 1992,Owner-occupied,5,bungalow,East Midlands,England,4
+23,13913.1555164173,39016.6134387199,51 to 100,1965 to 1983,Privately rented,7,purpose built flat,Wales,Wales,4
+24,19928.3463473829,63263.7999778129,51 to 100,1919 to 1944,Unknown,5,end terrace,York and Humber,England,2
+25,22878.7146480916,43088.009228692,51 to 100,1993 to 1999,Owner-occupied,5,detached,East of England,England,2
+26,12794.6724107982,49434.7178649909,51 to 100,1919 to 1944,Owner-occupied,5,semi-detached,West Midlands,England,2
+27,13545.9633626339,34731.4322087408,Over 250,1919 to 1944,Council/Housing Association,3,end terrace,Wales,Wales,1
+28,7015.90304556725,12290.975047769,201 to 250,1919 to 1944,Owner-occupied,5,purpose built flat,North West,England,2
+29,16656.4460588546,14588.6652076754,151 to 200,Post 1999,Owner-occupied,6,bungalow,West Midlands,England,5 or more
+30,11884.2199660726,36800.6302186019,50 or less,1965 to 1983,Council/Housing Association,5,converted flat,South East,England,5 or more
+31,16634.657710287,26050.4599140298,201 to 250,1965 to 1983,Owner-occupied,6,end terrace,West Midlands,England,5 or more
+32,17717.7859800485,36852.8424920356,50 or less,1945 to 1964,Unknown,5,end terrace,East Midlands,England,1
+33,19146.418820273,54486.6309993704,51 to 100,Post 1999,Council/Housing Association,5,end terrace,Wales,Wales,2
+34,12018.4171800455,34104.2244214659,Over 250,1984 to 1992,Owner-occupied,6,purpose built flat,York and Humber,England,5 or more
+35,16848.9687447636,32923.3717166035,Over 250,Pre 1919,Owner-occupied,5,mid terraced,York and Humber,England,2
+36,7215.51777242552,8134.63311224492,51 to 100,Pre 1919,Council/Housing Association,4,end terrace,East of England,England,5 or more
+37,11258.1297413509,22622.2689856276,50 or less,1919 to 1944,Unknown,5,purpose built flat,South East,England,2
+38,10972.0108393555,24441.9103943,50 or less,1919 to 1944,Privately rented,5,end terrace,South East,England,4
+39,4194.24010085437,29555.712587344,Over 250,1965 to 1983,Privately rented,3,bungalow,London,England,4
+40,14818.4843128591,38131.0510260374,51 to 100,1993 to 1999,Privately rented,5,mid terraced,London,England,3
+41,15553.7617230053,34462.7963384472,50 or less,Post 1999,Unknown,6,semi-detached,East of England,England,2
+42,13095.7358522078,33600.9118222356,Over 250,1945 to 1964,Owner-occupied,4,unknown,London,England,3
+43,17946.4834714085,33994.0574802092,101 to 150,1965 to 1983,Council/Housing Association,6,end terrace,London,England,2
+44,11508.0242736053,30639.5617829584,51 to 100,Pre 1919,Owner-occupied,5,mid terraced,West Midlands,England,3
+45,8727.60116824862,30159.8863628966,Over 250,1945 to 1964,Unknown,4,converted flat,Wales,Wales,1
+46,16535.2866788414,39500.5454480018,201 to 250,1984 to 1992,Council/Housing Association,7,purpose built flat,London,England,5 or more
+47,11140.576682596,47085.3140408878,51 to 100,1993 to 1999,Privately rented,5,end terrace,North West,England,3
+48,20919.8727862247,29211.7541550465,151 to 200,Post 1999,Council/Housing Association,5,semi-detached,North East,England,5 or more
+49,12790.4613670565,45405.2438435647,201 to 250,1965 to 1983,Privately rented,6,mid terraced,West Midlands,England,1
+50,17502.7331007715,42530.3034460783,50 or less,Post 1999,Owner-occupied,6,end terrace,West Midlands,England,2
+51,16056.3054147154,20377.1689924785,Over 250,1965 to 1983,Unknown,5,end terrace,South East,England,2
+52,11260.1737472941,27522.3769190301,201 to 250,1945 to 1964,Owner-occupied,3,bungalow,Wales,Wales,4
+53,21493.2404419401,34288.7432939086,101 to 150,Post 1999,Council/Housing Association,5,converted flat,South East,England,1
+54,17446.6218797044,27471.1673218253,50 or less,Post 1999,Council/Housing Association,6,purpose built flat,London,England,4
+55,15050.9582334504,,201 to 250,1984 to 1992,Privately rented,5,end terrace,London,England,3
+56,15857.9399356025,30013.4834446452,151 to 200,1919 to 1944,Unknown,6,end terrace,Unknown,Unknown,5 or more
+57,17607.4888908055,32279.5550641521,Over 250,1993 to 1999,Unknown,5,end terrace,South West,England,5 or more
+58,15050.9872311235,30812.9142805574,201 to 250,1919 to 1944,Privately rented,6,bungalow,Unknown,Unknown,2
+59,1685.19675315559,1417.55478683643,151 to 200,Pre 1919,Council/Housing Association,5,converted flat,York and Humber,England,2
+60,15894.5530293685,38797.3982544052,151 to 200,Post 1999,Unknown,5,detached,South West,England,1
+61,13067.1478570445,38868.6364095194,151 to 200,1965 to 1983,Unknown,6,converted flat,West Midlands,England,4
+62,15461.9250517752,41628.1683164264,Over 250,1919 to 1944,Privately rented,6,unknown,York and Humber,England,3
+63,17181.8418246467,43143.3252399659,201 to 250,1919 to 1944,Unknown,5,purpose built flat,West Midlands,England,4
+64,20728.9021624181,41296.1542409897,Over 250,Pre 1919,Council/Housing Association,7,mid terraced,West Midlands,England,5 or more
+65,11506.1751008152,44083.1043820168,151 to 200,1984 to 1992,Owner-occupied,5,mid terraced,York and Humber,England,2
+66,20309.2395235728,30812.8097189744,Over 250,1984 to 1992,Owner-occupied,8,semi-detached,South East,England,5 or more
+67,16114.7410786933,23417.1920981407,Over 250,1919 to 1944,Unknown,7,converted flat,South East,England,2
+68,19163.3962613014,41043.5412908928,201 to 250,Post 1999,Privately rented,6,end terrace,South West,England,2
+69,18650.4529086815,41503.9420588471,151 to 200,1945 to 1964,Unknown,5,converted flat,West Midlands,England,4
+70,17786.7714781892,29545.9736610126,50 or less,Post 1999,Council/Housing Association,4,purpose built flat,North West,England,4
+71,10137.88802113,29347.869240197,201 to 250,Post 1999,Privately rented,4,mid terraced,York and Humber,England,2
+72,14270.7192701532,36091.5852114435,Over 250,1984 to 1992,Owner-occupied,6,end terrace,East Midlands,England,5 or more
+73,17363.3973504022,39664.0256122985,50 or less,1919 to 1944,Unknown,5,end terrace,South West,England,1
+74,10527.8464336458,37586.9289435679,50 or less,1919 to 1944,Council/Housing Association,8,end terrace,South East,England,3
+75,12305.2880062724,39867.2862279413,50 or less,1984 to 1992,Unknown,5,end terrace,South West,England,4
+76,17178.6462902846,13219.9582867665,101 to 150,Pre 1919,Unknown,6,mid terraced,South East,England,5 or more
+77,17989.1754743982,52888.2035949747,201 to 250,1984 to 1992,Council/Housing Association,6,end terrace,London,England,5 or more
+78,16669.8403625602,39695.5626466541,151 to 200,1945 to 1964,Unknown,4,detached,East of England,England,2
+79,10819.8342543467,24342.1916390899,50 or less,Pre 1919,Council/Housing Association,4,converted flat,East Midlands,England,3
+80,9892.72860314271,18341.0810987131,50 or less,1945 to 1964,Privately rented,6,mid terraced,South East,England,5 or more
+81,21217.7518300663,48369.3082064786,151 to 200,1984 to 1992,Privately rented,5,semi-detached,East Midlands,England,2
+82,15780.3725833052,37623.7085326862,Over 250,1945 to 1964,Owner-occupied,5,purpose built flat,South East,England,5 or more
+83,15042.6297812997,43913.4457070189,Over 250,1945 to 1964,Owner-occupied,5,purpose built flat,West Midlands,England,2
+84,14135.3014840476,32375.7550323122,Over 250,1965 to 1983,Unknown,4,end terrace,South East,England,2
+85,9481.34415752352,26083.6013685389,Over 250,1919 to 1944,Privately rented,4,purpose built flat,Wales,Wales,2
+86,17313.4652218974,57023.2656195141,Over 250,1965 to 1983,Unknown,5,end terrace,East Midlands,England,5 or more
+87,13717.8636971733,13489.1156156431,151 to 200,1965 to 1983,Owner-occupied,5,bungalow,York and Humber,England,4
+88,13869.2458974149,36328.9432178476,50 or less,1965 to 1983,Owner-occupied,5,mid terraced,Wales,Wales,1
+89,18707.3005577403,41031.4960278668,101 to 150,1945 to 1964,Unknown,5,converted flat,London,England,5 or more
+90,18225.2135151263,41059.1863274141,201 to 250,1919 to 1944,Owner-occupied,5,purpose built flat,North East,England,2
+91,20697.3562420395,44611.4536908656,101 to 150,1984 to 1992,Owner-occupied,6,semi-detached,York and Humber,England,2
+92,12593.9403012157,122394,Over 250,1984 to 1992,Owner-occupied,4,mid terraced,East Midlands,England,1
+93,17478.9881078485,47132.7379165117,Over 250,1945 to 1964,Council/Housing Association,6,detached,London,England,2
+94,20691.0879292595,16435.4099295547,50 or less,Post 1999,Owner-occupied,7,semi-detached,North East,England,3
+95,9842.80368566556,21182.8662544582,50 or less,1945 to 1964,Council/Housing Association,6,unknown,South East,England,5 or more
+96,10926.3757875455,28670.8394074758,50 or less,1945 to 1964,Council/Housing Association,4,mid terraced,London,England,5 or more
+97,9754.50040377126,30152.3455815299,51 to 100,1945 to 1964,Unknown,6,end terrace,East Midlands,England,3
+98,8332.80022222498,31034.1870624359,151 to 200,1919 to 1944,Council/Housing Association,5,purpose built flat,East Midlands,England,1
+99,15006.2362443151,39775.1909326987,50 or less,1984 to 1992,Privately rented,7,converted flat,East Midlands,England,4
+100,17493.6525774106,22130.5071058826,51 to 100,1965 to 1983,Council/Housing Association,7,semi-detached,London,England,5 or more
+101,19869.193794126,38645.7572765226,Over 250,1919 to 1944,Unknown,5,semi-detached,Wales,Wales,2
+102,19192.0075125988,42809.1002669362,201 to 250,1984 to 1992,Owner-occupied,4,semi-detached,South East,England,5 or more
+103,10312.3314898445,41579.8850497753,101 to 150,Pre 1919,Owner-occupied,6,converted flat,South West,England,5 or more
+104,22675.7076721786,40274.6838900876,Over 250,1993 to 1999,Privately rented,5,mid terraced,East Midlands,England,2
+105,11769.8847455395,45567.2346530622,101 to 150,Pre 1919,Unknown,5,detached,South West,England,3
+106,15116.8031466393,31269.2744993477,51 to 100,1965 to 1983,Privately rented,5,bungalow,North West,England,3
+107,12830.3434067991,31188.2839591992,Over 250,1919 to 1944,Council/Housing Association,5,mid terraced,Wales,Wales,4
+108,14129.4528054649,34430.7141123841,201 to 250,Pre 1919,Privately rented,6,converted flat,East Midlands,England,5 or more
+109,15475.2580489111,29559.2640745306,50 or less,1965 to 1983,Owner-occupied,4,end terrace,North West,England,4
+110,15175.076132428,40655.492405558,Over 250,1919 to 1944,Unknown,5,detached,London,England,3
+111,14550.9619211414,20763.0832145285,101 to 150,1919 to 1944,Privately rented,6,end terrace,South West,England,5 or more
+112,15130.8505187459,33862.7653220336,51 to 100,Post 1999,Privately rented,6,converted flat,North West,England,4
+113,12556.685933928,26330.0471064116,151 to 200,1919 to 1944,Privately rented,5,converted flat,South West,England,2
+114,12473.843206163,26185.9271167164,Over 250,1965 to 1983,Unknown,4,mid terraced,York and Humber,England,2
+115,7458.6849669555,37137.8792330364,51 to 100,Pre 1919,Owner-occupied,4,semi-detached,West Midlands,England,1
+116,13001.984607137,41664.2086075806,151 to 200,Post 1999,Council/Housing Association,4,end terrace,Wales,Wales,1
+117,12438.8103527946,46210.6702904409,50 or less,Pre 1919,Unknown,5,end terrace,East of England,England,3
+118,26376.1015571291,42510.1483918328,201 to 250,1919 to 1944,Owner-occupied,5,mid terraced,South West,England,1
+119,8753.13130636003,27950.3539084258,51 to 100,Pre 1919,Council/Housing Association,4,unknown,East Midlands,England,5 or more
+120,15254.3609663805,19530.242207702,51 to 100,1984 to 1992,Unknown,6,purpose built flat,North East,England,2
+121,8183.27777164042,23456.2855093419,Over 250,Pre 1919,Council/Housing Association,4,converted flat,Wales,Wales,5 or more
+122,8286.80968912102,43682.301042856,Over 250,1945 to 1964,Privately rented,4,end terrace,York and Humber,England,2
+123,15199.5244238738,30090.6709818261,Over 250,Pre 1919,Council/Housing Association,6,semi-detached,London,England,5 or more
+124,10338.5000638115,18295.3851758981,Over 250,1919 to 1944,Privately rented,3,mid terraced,East Midlands,England,2
+125,14653.6354124503,33837.5382560972,51 to 100,1919 to 1944,Owner-occupied,6,semi-detached,West Midlands,England,4
+126,12804.2864788333,43285.2616411412,50 or less,1984 to 1992,Unknown,5,end terrace,West Midlands,England,2
+127,11998.8063966684,16081.7249616912,50 or less,Post 1999,Unknown,4,bungalow,East Midlands,England,2
+128,5881.33080014455,22446.1371104667,50 or less,1945 to 1964,Owner-occupied,3,converted flat,East of England,England,4
+129,9349.36428857828,32606.8322474786,50 or less,1965 to 1983,Privately rented,5,mid terraced,East of England,England,1
+130,15439.3304820375,,Over 250,1984 to 1992,Unknown,6,purpose built flat,West Midlands,England,4
+131,17121.4322300876,30117.9786735447,151 to 200,1945 to 1964,Unknown,5,end terrace,East of England,England,2
+132,12521.7985027213,45560.7240544136,50 or less,1919 to 1944,Privately rented,2,purpose built flat,Wales,Wales,1
+133,14662.2101846569,,50 or less,Pre 1919,Privately rented,6,end terrace,York and Humber,England,2
+134,19528.7558487186,28602.0795198722,51 to 100,1919 to 1944,Owner-occupied,5,purpose built flat,East Midlands,England,4
+135,20902.1312932687,28986.0872744318,Over 250,1965 to 1983,Privately rented,5,detached,North West,England,5 or more
+136,9905.48818765335,,Over 250,Pre 1919,Council/Housing Association,4,end terrace,South West,England,2
+137,14152.9789551109,32745.2126190244,Over 250,1965 to 1983,Council/Housing Association,6,detached,York and Humber,England,4
+138,19871.4133730213,35559.2260685568,Over 250,1984 to 1992,Unknown,5,mid terraced,London,England,2
+139,12624.7673225908,41289.337364999,201 to 250,Pre 1919,Owner-occupied,6,semi-detached,London,England,2
+140,14434.2352700345,35001.5006722243,50 or less,Pre 1919,Council/Housing Association,4,converted flat,Wales,Wales,1
+141,14285.9043430081,32095.4374404977,50 or less,1984 to 1992,Owner-occupied,4,bungalow,York and Humber,England,5 or more
+142,10812.5241399949,24035.0676036127,50 or less,1965 to 1983,Unknown,4,unknown,Unknown,Unknown,5 or more
+143,12733.665340269,19435.893245423,201 to 250,Pre 1919,Council/Housing Association,5,mid terraced,North West,England,1
+144,14533.1995843589,15005.0239594964,50 or less,1984 to 1992,Council/Housing Association,6,purpose built flat,South East,England,3
+145,12867.4088533134,33685.4842461896,Over 250,1993 to 1999,Unknown,4,converted flat,North East,England,2
+146,19486.561167007,38438.7241820226,201 to 250,1984 to 1992,Owner-occupied,7,converted flat,Wales,Wales,5 or more
+147,12576.3911556607,44168.0585277839,51 to 100,Post 1999,Unknown,4,end terrace,East of England,England,5 or more
+148,12780.4650213343,34328.4278019465,51 to 100,Pre 1919,Council/Housing Association,7,semi-detached,East Midlands,England,5 or more
+149,17681.9165534995,43880.4332249942,201 to 250,Post 1999,Owner-occupied,4,converted flat,South West,England,4
+150,10080.4846643684,29330.9793623337,201 to 250,1919 to 1944,Owner-occupied,6,mid terraced,East of England,England,3
+151,14482.2290735399,25627.6362601929,Over 250,Pre 1919,Unknown,7,mid terraced,East of England,England,5 or more
+152,7931.79904102852,29546.248506785,50 or less,1945 to 1964,Owner-occupied,4,bungalow,North East,England,2
+153,19721.0566791453,41610.0982081962,Over 250,1984 to 1992,Council/Housing Association,7,detached,South West,England,5 or more
+154,13472.6554416883,24643.164774653,101 to 150,1984 to 1992,Unknown,4,semi-detached,South West,England,3
+155,12631.0821147917,31191.283903673,50 or less,Post 1999,Owner-occupied,5,end terrace,South West,England,2
+156,9292.36761255979,46884.7013952599,151 to 200,1919 to 1944,Unknown,3,mid terraced,North West,England,4
+157,14626.8855434543,22858.9705519568,51 to 100,1993 to 1999,Council/Housing Association,4,mid terraced,York and Humber,England,4
+158,11189.1329066142,43809.9635660657,Over 250,Pre 1919,Privately rented,5,converted flat,East Midlands,England,5 or more
+159,12347.0621361222,29056.2040000403,Over 250,Pre 1919,Owner-occupied,4,converted flat,York and Humber,England,4
+160,20245.0230285808,52807.9361768674,51 to 100,Post 1999,Owner-occupied,6,end terrace,South East,England,3
+161,13899.2215423827,24822.8324275592,50 or less,Pre 1919,Council/Housing Association,5,end terrace,York and Humber,England,4
+162,10012.119085708,28266.4349882705,201 to 250,1984 to 1992,Unknown,1,bungalow,Wales,Wales,3
+163,15369.4612989537,37059.2533793534,151 to 200,Pre 1919,Privately rented,5,converted flat,North West,England,2
+164,13087.3003733978,30855.3462406696,201 to 250,Post 1999,Unknown,5,semi-detached,South East,England,1
+165,17220.3644238786,42130.3393953622,Over 250,1945 to 1964,Owner-occupied,4,detached,London,England,2
+166,20869.0722761698,38000.0966515839,51 to 100,Post 1999,Unknown,5,end terrace,Wales,Wales,3
+167,10356.7895679836,40527.7118503046,50 or less,Pre 1919,Owner-occupied,5,end terrace,South West,England,4
+168,16631.9137009205,36985.1350268981,151 to 200,1945 to 1964,Unknown,4,purpose built flat,East Midlands,England,4
+169,15029.7516306253,40291.6690544385,151 to 200,1965 to 1983,Privately rented,5,mid terraced,North East,England,2
+170,18542.4934502624,26185.6849535965,201 to 250,1965 to 1983,Council/Housing Association,6,end terrace,North East,England,3
+171,13665.9610913076,26317.1852477787,50 or less,Post 1999,Council/Housing Association,6,end terrace,North East,England,4
+172,18286.6256036722,47212.1798035889,Over 250,Post 1999,Unknown,6,mid terraced,North East,England,2
+173,7094.67637676501,30772.540832793,Over 250,Pre 1919,Owner-occupied,5,converted flat,Wales,Wales,5 or more
+174,21985.0627105342,39386.4747165246,Over 250,1993 to 1999,Council/Housing Association,6,detached,York and Humber,England,4
+175,18411.0677261453,36122.9088337454,101 to 150,Pre 1919,Owner-occupied,6,mid terraced,East Midlands,England,5 or more
+176,14006.0639782011,39872.5653429966,50 or less,Post 1999,Council/Housing Association,4,converted flat,East of England,England,5 or more
+177,8379.83885741827,25182.7026458081,50 or less,Post 1999,Council/Housing Association,3,bungalow,North East,England,2
+178,17446.558726367,36898.8761548653,50 or less,1984 to 1992,Council/Housing Association,7,end terrace,East of England,England,2
+179,16756.913809921,20120.2840841264,101 to 150,Pre 1919,Unknown,7,purpose built flat,London,England,4
+180,14631.952537714,50017.1736799207,Over 250,1945 to 1964,Unknown,5,purpose built flat,West Midlands,England,5 or more
+181,15318.9011753448,41264.4628585747,151 to 200,1919 to 1944,Privately rented,4,detached,East of England,England,4
+182,12127.1200077556,38744.9869256597,Over 250,Post 1999,Council/Housing Association,5,mid terraced,London,England,2
+183,16258.2060301172,17205.8001025695,50 or less,1984 to 1992,Unknown,4,converted flat,South East,England,2
+184,15938.3931403401,34516.8029010305,50 or less,1945 to 1964,Privately rented,6,mid terraced,South East,England,4
+185,13449.6434583436,28438.4975391867,50 or less,1919 to 1944,Council/Housing Association,6,end terrace,East of England,England,3
+186,8865.97870515127,14884.0716959831,50 or less,1919 to 1944,Council/Housing Association,5,converted flat,Wales,Wales,2
+187,17697.6254584129,43243.5296517509,50 or less,Pre 1919,Unknown,6,purpose built flat,London,England,5 or more
+188,17064.6532063484,47358.7868897916,151 to 200,Post 1999,Council/Housing Association,6,end terrace,South West,England,5 or more
+189,11032.4420227945,,201 to 250,1984 to 1992,Council/Housing Association,4,purpose built flat,South West,England,5 or more
+190,7747.61638046772,24509.8811307758,50 or less,1945 to 1964,Unknown,5,purpose built flat,Unknown,Unknown,2
+191,15550.2957149922,50332.9371940612,151 to 200,1965 to 1983,Council/Housing Association,4,detached,North East,England,3
+192,13166.0944035553,16553.2114678876,50 or less,Post 1999,Owner-occupied,5,mid terraced,South West,England,4
+193,15754.9864635433,41489.1186364828,151 to 200,1965 to 1983,Owner-occupied,4,purpose built flat,East of England,England,3
+194,9049.16992571789,24997.6557533737,51 to 100,Pre 1919,Unknown,6,mid terraced,London,England,2
+195,10502.8580047861,,51 to 100,1945 to 1964,Council/Housing Association,5,converted flat,West Midlands,England,2
+196,19366.3858241475,32371.849880572,101 to 150,1984 to 1992,Unknown,6,converted flat,North West,England,2
+197,16412.7882371601,45431.7249654342,Over 250,Pre 1919,Owner-occupied,5,detached,East Midlands,England,2
+198,17204.5924625994,25413.5336317074,50 or less,Post 1999,Unknown,4,purpose built flat,Wales,Wales,1
+199,22529.8787632444,50195.782317154,51 to 100,1965 to 1983,Owner-occupied,4,mid terraced,Wales,Wales,4
+200,15220.1792710445,47154.2524726014,151 to 200,Pre 1919,Privately rented,5,end terrace,Unknown,Unknown,1
+201,5983.85882140682,9568.94774128122,50 or less,Pre 1919,Owner-occupied,3,purpose built flat,East of England,England,1
+202,16107.6576203804,,Over 250,1984 to 1992,Privately rented,6,detached,South East,England,5 or more
+203,19737.7608110068,43981.9393645833,201 to 250,Post 1999,Privately rented,3,end terrace,North West,England,5 or more
+204,23589.4152011377,33292.2488613968,Over 250,1984 to 1992,Privately rented,6,end terrace,South West,England,5 or more
+205,8688.78708610442,21113.9532515825,201 to 250,Pre 1919,Council/Housing Association,4,end terrace,Wales,Wales,4
+206,9670.06510245919,24383.5371598782,50 or less,Pre 1919,Owner-occupied,5,mid terraced,East Midlands,England,3
+207,11601.7796149485,27222.9420002962,50 or less,Post 1999,Unknown,4,end terrace,North East,England,2
+208,10090.703011951,35540.9052774336,Over 250,1984 to 1992,Privately rented,5,mid terraced,South East,England,5 or more
+209,11859.2795286297,25062.1212117332,Over 250,1945 to 1964,Council/Housing Association,6,mid terraced,Wales,Wales,5 or more
+210,13856.7984154211,33497.5826306362,151 to 200,1965 to 1983,Privately rented,5,converted flat,South East,England,3
+211,9451.84247063492,35226.9837594489,50 or less,1993 to 1999,Owner-occupied,4,purpose built flat,West Midlands,England,2
+212,23490.3214592312,27733.1427391416,50 or less,1965 to 1983,Unknown,7,detached,South West,England,4
+213,15127.1434697809,27462.7852941632,50 or less,1945 to 1964,Privately rented,5,end terrace,North East,England,4
+214,14296.9136549641,41136.3503671234,Over 250,Post 1999,Unknown,5,purpose built flat,York and Humber,England,3
+215,16808.8203740514,32046.4269296791,50 or less,1945 to 1964,Unknown,7,converted flat,London,England,5 or more
+216,14821.6854682923,,201 to 250,Pre 1919,Privately rented,6,mid terraced,North East,England,5 or more
+217,14088.0343642229,24869.6814747056,50 or less,1945 to 1964,Owner-occupied,5,mid terraced,London,England,2
+218,21064.327139722,47382.1187509221,Over 250,1965 to 1983,Unknown,6,end terrace,London,England,5 or more
+219,13717.4266073473,28539.4863766069,Over 250,1984 to 1992,Privately rented,6,mid terraced,West Midlands,England,4
+220,9093.48789549001,24197.0866852213,151 to 200,1919 to 1944,Owner-occupied,4,purpose built flat,North East,England,5 or more
+221,16332.1110219869,33735.4167547904,151 to 200,1993 to 1999,Unknown,5,unknown,London,England,5 or more
+222,13135.7291222112,38681.6370248153,Over 250,1965 to 1983,Unknown,5,detached,Wales,Wales,5 or more
+223,12396.2042798743,26635.743321687,50 or less,Pre 1919,Owner-occupied,3,mid terraced,Unknown,Unknown,1
+224,10027.9776549285,33350.2247887315,151 to 200,Pre 1919,Owner-occupied,5,end terrace,North West,England,4
+225,16516.6325402895,40639.0912183248,101 to 150,1965 to 1983,Council/Housing Association,5,semi-detached,West Midlands,England,2
+226,13904.5263612306,23182.4122528196,50 or less,1965 to 1983,Unknown,5,purpose built flat,East Midlands,England,3
+227,16896.0741937945,35073.5348319787,Over 250,Post 1999,Privately rented,6,mid terraced,York and Humber,England,2
+228,13642.6599373905,27419.1284101341,50 or less,1945 to 1964,Council/Housing Association,5,converted flat,East of England,England,2
+229,11805.5084155605,34545.2495089897,50 or less,1945 to 1964,Unknown,5,mid terraced,South West,England,5 or more
+230,20082.6978108773,24679.2634530409,50 or less,Post 1999,Privately rented,6,end terrace,East of England,England,2
+231,13482.3173288094,46690.448724638,Over 250,Post 1999,Privately rented,5,mid terraced,South West,England,2
+232,18771.1618521481,50085.7456918023,101 to 150,1984 to 1992,Privately rented,5,detached,North West,England,2
+233,9450.01261058168,20447.7341135126,151 to 200,1919 to 1944,Unknown,6,purpose built flat,South West,England,5 or more
+234,12641.2301963506,25200.2079954144,Over 250,1984 to 1992,Owner-occupied,5,unknown,London,England,5 or more
+235,13492.6354938637,23810.6845396054,201 to 250,1965 to 1983,Council/Housing Association,6,unknown,West Midlands,England,2
+236,12966.7912497247,30509.248647934,101 to 150,Post 1999,Unknown,4,purpose built flat,London,England,5 or more
+237,20506.5462828286,34519.3293056965,51 to 100,1984 to 1992,Owner-occupied,5,converted flat,North West,England,5 or more
+238,14560.3404382954,34408.5617067065,Over 250,1965 to 1983,Owner-occupied,5,converted flat,York and Humber,England,2
+239,15717.8295953419,16958.149594677,50 or less,1919 to 1944,Unknown,6,unknown,East Midlands,England,3
+240,10574.4676546498,30918.1843163607,50 or less,1984 to 1992,Council/Housing Association,5,purpose built flat,East Midlands,England,5 or more
+241,11497.937872067,30490.1007351502,201 to 250,1993 to 1999,Owner-occupied,5,bungalow,South West,England,2
+242,18988.6348177294,22741.2444360053,Over 250,1945 to 1964,Unknown,6,converted flat,York and Humber,England,4
+243,20117.0926668773,41401.39292188,51 to 100,1965 to 1983,Privately rented,6,end terrace,London,England,4
+244,20076.7361763202,39294.069861138,51 to 100,1945 to 1964,Council/Housing Association,6,end terrace,North East,England,4
+245,8675.04406739897,25411.9074555504,51 to 100,1984 to 1992,Council/Housing Association,5,bungalow,London,England,4
+246,23548.277367508,42070.8430754977,201 to 250,Post 1999,Council/Housing Association,5,mid terraced,London,England,5 or more
+247,19070.0872256173,41390.2006162563,50 or less,1965 to 1983,Privately rented,5,detached,East Midlands,England,5 or more
+248,14544.3456689632,36581.3442194973,151 to 200,Post 1999,Unknown,5,mid terraced,Wales,Wales,2
+249,17711.454923565,32417.4697887977,50 or less,Post 1999,Council/Housing Association,4,bungalow,West Midlands,England,5 or more
+250,10446.9967785745,40067.1037646327,151 to 200,Pre 1919,Privately rented,4,bungalow,North West,England,1
+251,9907.46017325205,28438.3887658335,50 or less,1965 to 1983,Privately rented,6,semi-detached,East of England,England,2
+252,14872.2037826201,32393.9299368359,51 to 100,1919 to 1944,Owner-occupied,6,semi-detached,London,England,5 or more
+253,9462.96266393018,37175.3833053781,50 or less,Pre 1919,Owner-occupied,4,end terrace,South East,England,1
+254,15485.3309697759,43541.7730596291,201 to 250,Post 1999,Unknown,5,bungalow,Wales,Wales,2
+255,20288.5823118197,32435.3964721562,50 or less,1965 to 1983,Council/Housing Association,5,mid terraced,East Midlands,England,3
+256,10176.4145196065,19775.5576655332,50 or less,1965 to 1983,Owner-occupied,5,purpose built flat,South West,England,4
+257,11459.2418152377,23704.9862094094,50 or less,1965 to 1983,Council/Housing Association,5,converted flat,North West,England,5 or more
+258,14863.857086622,22655.4094716768,50 or less,1984 to 1992,Privately rented,6,end terrace,North West,England,2
+259,10249.2744622603,12458.0883912532,Over 250,Pre 1919,Council/Housing Association,6,end terrace,North West,England,2
+260,12997.271389759,34722.4183775464,151 to 200,1919 to 1944,Council/Housing Association,5,converted flat,East of England,England,2
+261,18444.4511583971,35820.2939944296,51 to 100,Post 1999,Unknown,4,converted flat,South West,England,3
+262,18862.541873458,43598.3676313217,50 or less,1965 to 1983,Council/Housing Association,7,detached,Wales,Wales,2
+263,16326.1300790069,35076.6299207597,201 to 250,Post 1999,Owner-occupied,5,converted flat,West Midlands,England,5 or more
+264,6633.01032274172,29382.8603970337,50 or less,1919 to 1944,Privately rented,4,mid terraced,Wales,Wales,4
+265,14425.6954040563,28583.9173307077,50 or less,1984 to 1992,Privately rented,7,detached,North East,England,2
+266,19278.1774855748,29016.9569264629,51 to 100,1984 to 1992,Council/Housing Association,6,mid terraced,York and Humber,England,4
+267,18185.4690322237,44199.1007747144,101 to 150,Post 1999,Unknown,5,detached,East Midlands,England,4
+268,13833.0046321268,39757.532208578,151 to 200,1945 to 1964,Owner-occupied,5,mid terraced,West Midlands,England,4
+269,2954.5569596272,5726.6614707537,50 or less,1945 to 1964,Council/Housing Association,4,bungalow,York and Humber,England,2
+270,14924.3898856443,41918.6664553154,201 to 250,Pre 1919,Council/Housing Association,6,purpose built flat,East of England,England,5 or more
+271,17147.838586749,19316.9827057682,50 or less,Post 1999,Owner-occupied,6,end terrace,Wales,Wales,2
+272,14857.9434948528,33220.2127568784,50 or less,1919 to 1944,Council/Housing Association,4,converted flat,York and Humber,England,4
+273,15344.7926320822,30430.7859762001,Over 250,1965 to 1983,Privately rented,5,converted flat,West Midlands,England,2
+274,16532.0017310768,34098.4918263833,151 to 200,1919 to 1944,Privately rented,5,converted flat,London,England,3
+275,12939.9073527882,42014.2383552361,50 or less,Pre 1919,Privately rented,4,end terrace,East of England,England,1
+276,20340.8627250805,27303.6523537654,50 or less,1945 to 1964,Unknown,5,semi-detached,Wales,Wales,2
+277,16698.8978107631,32975.6645320033,Over 250,1984 to 1992,Owner-occupied,5,purpose built flat,South West,England,5 or more
+278,9272.26085746069,52031.8499609473,Over 250,1984 to 1992,Privately rented,4,end terrace,West Midlands,England,2
+279,20652.2918174471,25519.4279468953,151 to 200,1965 to 1983,Privately rented,6,end terrace,West Midlands,England,1
+280,19881.4927415791,32732.2480816752,51 to 100,Post 1999,Unknown,5,detached,London,England,2
+281,18234.5698752928,36582.5545619297,50 or less,1919 to 1944,Council/Housing Association,5,end terrace,East Midlands,England,2
+282,7452.71693394445,28233.8293614478,Over 250,1919 to 1944,Council/Housing Association,4,purpose built flat,North West,England,2
+283,12193.6706640908,26039.2259172886,101 to 150,1993 to 1999,Privately rented,5,unknown,London,England,2
+284,17413.766849405,33674.7855060244,50 or less,1965 to 1983,Unknown,5,end terrace,South East,England,2
+285,14850.3571883105,43779.8676187909,50 or less,1919 to 1944,Owner-occupied,5,purpose built flat,South East,England,2
+286,16167.2455325388,33247.420351141,201 to 250,1945 to 1964,Privately rented,6,end terrace,South West,England,5 or more
+287,25325.9956163797,46295.838259925,51 to 100,1919 to 1944,Unknown,6,detached,West Midlands,England,2
+288,11112.7922267248,33421.6103383971,Over 250,1965 to 1983,Privately rented,5,mid terraced,North West,England,5 or more
+289,5499.69462109026,28249.0219791771,50 or less,Pre 1919,Owner-occupied,5,purpose built flat,Wales,Wales,4
+290,15845.9803486478,39226.3853538242,Over 250,1984 to 1992,Owner-occupied,6,mid terraced,North West,England,2
+291,11680.0357261861,31034.5489907484,50 or less,1984 to 1992,Unknown,5,mid terraced,York and Humber,England,5 or more
+292,16593.0656539689,28730.3293192976,Over 250,1965 to 1983,Privately rented,4,purpose built flat,York and Humber,England,1
+293,11139.6488804307,29445.7994671055,Over 250,1984 to 1992,Owner-occupied,5,semi-detached,Unknown,Unknown,1
+294,24251.4914189886,33875.3545330315,51 to 100,1984 to 1992,Unknown,5,end terrace,North East,England,2
+295,14124.4536891303,33800.553376099,151 to 200,Post 1999,Privately rented,6,purpose built flat,West Midlands,England,5 or more
+296,12589.6918352587,28165.5292226662,Over 250,Pre 1919,Unknown,6,mid terraced,East of England,England,2
+297,13939.4131145403,,50 or less,Post 1999,Unknown,6,purpose built flat,North East,England,4
+298,18400.9130661913,26855.7568916505,50 or less,1993 to 1999,Council/Housing Association,4,bungalow,South East,England,5 or more
+299,15080.6776812672,31222.7450137598,50 or less,1945 to 1964,Unknown,5,end terrace,South East,England,4
+300,7613.73548150384,16331.9122602804,201 to 250,1965 to 1983,Owner-occupied,6,semi-detached,North West,England,2
+301,14641.4924624688,29641.2851233507,101 to 150,Post 1999,Unknown,7,bungalow,Unknown,Unknown,5 or more
+302,17957.3500934234,41624.0427164998,Over 250,Post 1999,Owner-occupied,5,mid terraced,North West,England,2
+303,14829.6918993816,,Over 250,1965 to 1983,Privately rented,6,detached,North East,England,2
+304,17846.5884200118,44991.0777258602,201 to 250,Post 1999,Owner-occupied,6,mid terraced,Wales,Wales,5 or more
+305,14025.3817495078,,50 or less,1965 to 1983,Council/Housing Association,4,end terrace,London,England,1
+306,14410.1213072659,34254.6475332389,201 to 250,Post 1999,Owner-occupied,3,purpose built flat,North West,England,3
+307,16752.1997743949,44848.8403059179,Over 250,Pre 1919,Privately rented,5,semi-detached,North West,England,2
+308,18966.8985928644,48830.9294344176,Over 250,1965 to 1983,Council/Housing Association,5,semi-detached,East Midlands,England,2
+309,9255.17184100463,15051.1510242238,50 or less,1965 to 1983,Council/Housing Association,4,converted flat,West Midlands,England,1
+310,14513.3605297363,41653.8412468684,Over 250,Post 1999,Owner-occupied,4,converted flat,West Midlands,England,2
+311,14351.5830955472,40425.6713562622,50 or less,1984 to 1992,Council/Housing Association,6,purpose built flat,East Midlands,England,4
+312,11370.2822735943,39027.687180294,101 to 150,Post 1999,Privately rented,5,end terrace,East Midlands,England,2
+313,10176.4056947305,20545.7807445406,50 or less,1945 to 1964,Council/Housing Association,5,bungalow,South East,England,2
+314,11923.9110780182,53292.9317053076,50 or less,1919 to 1944,Owner-occupied,3,converted flat,London,England,2
+315,17204.2222836204,11695.1677399278,50 or less,Post 1999,Unknown,6,purpose built flat,West Midlands,England,4
+316,12855.156491392,31741.4063914944,50 or less,1945 to 1964,Unknown,5,converted flat,York and Humber,England,5 or more
+317,11258.3653499957,31213.4209051219,Over 250,1984 to 1992,Privately rented,5,detached,North West,England,2
+318,15368.2814288731,32750.1989686796,101 to 150,1919 to 1944,Unknown,7,converted flat,East of England,England,2
+319,9298.26346227973,35174.7354056136,50 or less,1984 to 1992,Council/Housing Association,5,bungalow,North East,England,3
+320,19193.1938997258,39074.6269682113,151 to 200,1984 to 1992,Council/Housing Association,6,semi-detached,South West,England,5 or more
+321,12558.3766232495,24112.1775048621,51 to 100,1965 to 1983,Unknown,5,end terrace,South East,England,4
+322,15481.1102258681,47444.921864066,Over 250,1993 to 1999,Unknown,7,detached,North West,England,5 or more
+323,14881.6817314675,30921.5046910334,Over 250,1965 to 1983,Privately rented,6,end terrace,East of England,England,2
+324,14657.6276982547,39162.2000256899,Over 250,1993 to 1999,Council/Housing Association,5,converted flat,West Midlands,England,2
+325,22506.8169980307,34937.6650502568,101 to 150,Pre 1919,Council/Housing Association,6,converted flat,North East,England,5 or more
+326,11083.8080123691,20022.424605012,50 or less,Pre 1919,Owner-occupied,6,bungalow,North West,England,5 or more
+327,19627.6694688813,32674.3583680515,51 to 100,1993 to 1999,Privately rented,4,end terrace,East Midlands,England,4
+328,14797.7582064554,23705.362379199,201 to 250,1984 to 1992,Privately rented,4,end terrace,South East,England,4
+329,11040.8962015143,34878.0306246369,151 to 200,1919 to 1944,Unknown,5,purpose built flat,East of England,England,5 or more
+330,14361.4322661637,18646.576122101,151 to 200,1984 to 1992,Unknown,5,converted flat,North East,England,2
+331,17899.6454739543,27488.0641810949,Over 250,1984 to 1992,Privately rented,6,converted flat,North West,England,5 or more
+332,12815.4951153454,31894.2545842649,50 or less,1919 to 1944,Council/Housing Association,4,mid terraced,York and Humber,England,3
+333,11313.0396721811,14117.9520421791,50 or less,1945 to 1964,Unknown,7,unknown,West Midlands,England,5 or more
+334,15322.544137775,29381.9961518568,201 to 250,1984 to 1992,Unknown,4,mid terraced,East Midlands,England,4
+335,18945.8310403622,34816.5100386362,50 or less,1984 to 1992,Unknown,6,mid terraced,West Midlands,England,3
+336,14342.8068926731,45729.9154371259,Over 250,Pre 1919,Owner-occupied,5,detached,North West,England,2
+337,8645.23863552041,25129.13873425,50 or less,Pre 1919,Privately rented,6,mid terraced,East Midlands,England,2
+338,8995.80358447691,22988.3887213642,50 or less,1984 to 1992,Owner-occupied,4,mid terraced,North West,England,4
+339,11329.2164769069,23974.9768514889,50 or less,1984 to 1992,Privately rented,5,bungalow,York and Humber,England,2
+340,12376.3584662598,35389.026571758,Over 250,1919 to 1944,Unknown,5,mid terraced,North West,England,1
+341,14567.8987533208,,51 to 100,1965 to 1983,Privately rented,5,end terrace,North West,England,2
+342,17569.2833225063,31226.2993771545,50 or less,1965 to 1983,Privately rented,5,purpose built flat,South East,England,4
+343,12775.4359352171,28983.7753238788,51 to 100,Pre 1919,Unknown,5,converted flat,North West,England,2
+344,9832.90575116979,38667.7185886923,Over 250,1984 to 1992,Privately rented,5,purpose built flat,North East,England,1
+345,17291.7108928982,50704.8549200682,Over 250,1984 to 1992,Unknown,5,purpose built flat,South East,England,2
+346,15853.2791770561,28613.7916272757,50 or less,1965 to 1983,Council/Housing Association,6,mid terraced,North West,England,2
+347,19677.5007921903,38579.2013819186,Over 250,Post 1999,Privately rented,7,mid terraced,Unknown,Unknown,5 or more
+348,7366.62631860048,23248.8075587266,201 to 250,Pre 1919,Unknown,4,end terrace,Wales,Wales,3
+349,15039.5744587068,51195.5612156766,Over 250,1919 to 1944,Owner-occupied,5,detached,Wales,Wales,4
+350,20526.458851615,44749.1012966461,151 to 200,1919 to 1944,Privately rented,5,converted flat,North West,England,2
+351,17798.7774147039,19891.0603556337,Over 250,Post 1999,Council/Housing Association,6,purpose built flat,Wales,Wales,5 or more
+352,11050.4383581645,25842.5005527739,50 or less,Post 1999,Privately rented,5,bungalow,East Midlands,England,2
+353,17834.5457706645,15137.2987916432,Over 250,1965 to 1983,Unknown,7,unknown,East Midlands,England,4
+354,10879.1032508668,28864.7624806714,50 or less,1919 to 1944,Council/Housing Association,5,unknown,Wales,Wales,1
+355,12694.4200843046,38104.0764901035,151 to 200,1919 to 1944,Privately rented,4,end terrace,Wales,Wales,1
+356,19810.3210893744,30153.2584401359,50 or less,Post 1999,Unknown,7,purpose built flat,North West,England,4
+357,13400.8331505452,20221.2786628604,50 or less,1945 to 1964,Council/Housing Association,5,bungalow,South East,England,2
+358,18253.8956448317,48732.0826835853,Over 250,Post 1999,Privately rented,6,mid terraced,South East,England,2
+359,13396.160238329,23190.1384470977,201 to 250,Pre 1919,Owner-occupied,6,converted flat,Wales,Wales,5 or more
+360,7826.41931525271,35219.6120048252,50 or less,1993 to 1999,Council/Housing Association,4,mid terraced,North West,England,4
+361,10980.9775187423,31836.0645489215,101 to 150,1984 to 1992,Council/Housing Association,4,end terrace,West Midlands,England,2
+362,9939.98924575542,37051.1058198265,51 to 100,1965 to 1983,Council/Housing Association,5,end terrace,South East,England,2
+363,12559.7572740907,40762.5495453885,51 to 100,Pre 1919,Unknown,5,purpose built flat,North West,England,2
+364,13201.6761147018,42678.4638988171,50 or less,1945 to 1964,Privately rented,5,end terrace,North West,England,2
+365,13995.8847515204,44359.1542848465,Over 250,Pre 1919,Privately rented,4,end terrace,North West,England,4
+366,13605.677693349,35180.4933796794,151 to 200,1984 to 1992,Council/Housing Association,6,detached,South East,England,3
+367,22863.1147676469,43129.2980992494,201 to 250,1945 to 1964,Council/Housing Association,6,end terrace,York and Humber,England,4
+368,8650.19338238434,18609.9168952786,101 to 150,Pre 1919,Council/Housing Association,4,bungalow,West Midlands,England,2
+369,12862.1744561212,20366.6877041842,50 or less,1919 to 1944,Unknown,5,mid terraced,East of England,England,5 or more
+370,16172.211015706,29318.002044128,50 or less,1965 to 1983,Unknown,6,purpose built flat,York and Humber,England,2
+371,21721.1882174466,39128.5707245306,51 to 100,1984 to 1992,Unknown,6,mid terraced,London,England,5 or more
+372,15045.2782537643,24600.709650452,151 to 200,1965 to 1983,Privately rented,4,end terrace,North West,England,2
+373,20031.4657114379,46517.2588479449,Over 250,1919 to 1944,Owner-occupied,6,detached,North West,England,2
+374,7529.50368368395,19004.2259450704,50 or less,1919 to 1944,Unknown,5,mid terraced,York and Humber,England,3
+375,20930.08655356,42803.7442368565,151 to 200,1945 to 1964,Council/Housing Association,6,end terrace,East Midlands,England,5 or more
+376,11665.4618841544,38649.2991224334,101 to 150,1965 to 1983,Council/Housing Association,5,semi-detached,South West,England,2
+377,13459.9544397715,21220.8438496904,51 to 100,1945 to 1964,Privately rented,5,semi-detached,South West,England,5 or more
+378,9852.07216022902,38290.608958647,50 or less,Post 1999,Council/Housing Association,4,converted flat,South East,England,2
+379,15242.686099088,14307.6606522545,51 to 100,Post 1999,Unknown,4,purpose built flat,Wales,Wales,5 or more
+380,22401.5890664822,,51 to 100,1919 to 1944,Council/Housing Association,4,mid terraced,East of England,England,4
+381,25160.8697438736,57919.1572259758,51 to 100,Post 1999,Owner-occupied,6,detached,South East,England,5 or more
+382,9990.35449725554,,Over 250,1945 to 1964,Unknown,4,end terrace,South East,England,4
+383,16766.9866716188,44082.8143671922,50 or less,Pre 1919,Privately rented,5,purpose built flat,North East,England,5 or more
+384,20681.1560197664,34199.2598107078,Over 250,1993 to 1999,Owner-occupied,5,end terrace,Wales,Wales,4
+385,13813.4671297613,35410.2043837072,50 or less,Post 1999,Privately rented,4,mid terraced,South West,England,2
+386,13714.586713849,42870.6843360839,101 to 150,1945 to 1964,Council/Housing Association,5,semi-detached,North West,England,2
+387,13339.0989748512,19725.4023003001,Over 250,Pre 1919,Owner-occupied,4,mid terraced,North West,England,2
+388,17251.1286220876,45372.5612910483,Over 250,1993 to 1999,Unknown,7,mid terraced,South East,England,5 or more
+389,20717.633461259,26232.5088217617,Over 250,1919 to 1944,Privately rented,4,purpose built flat,West Midlands,England,2
+390,17640.2062163161,31723.6687871028,51 to 100,1984 to 1992,Unknown,6,mid terraced,North West,England,3
+391,16049.0695964488,,Over 250,1965 to 1983,Privately rented,4,purpose built flat,East of England,England,1
+392,13350.8667715088,36942.9408263364,151 to 200,Pre 1919,Privately rented,5,mid terraced,South East,England,1
+393,16822.291251274,,151 to 200,Post 1999,Unknown,6,converted flat,East of England,England,2
+394,12278.4475706021,40263.5540201406,Over 250,Post 1999,Privately rented,6,end terrace,London,England,5 or more
+395,13447.7609902998,29984.1882653454,50 or less,1984 to 1992,Unknown,5,purpose built flat,York and Humber,England,2
+396,19416.396392949,43943.8203069216,151 to 200,1965 to 1983,Owner-occupied,7,end terrace,London,England,5 or more
+397,16577.7196540839,32116.750015518,Over 250,1993 to 1999,Unknown,5,converted flat,South West,England,4
+398,15704.93508527,12458.2437514694,Over 250,1965 to 1983,Owner-occupied,6,end terrace,London,England,4
+399,13553.8035528909,36783.15839877,51 to 100,1965 to 1983,Privately rented,4,mid terraced,North West,England,2
+400,18696.6724165105,32640.321737075,51 to 100,1984 to 1992,Owner-occupied,4,end terrace,South East,England,5 or more
+401,20449.2907367768,33784.0785523937,151 to 200,1965 to 1983,Privately rented,6,unknown,South West,England,3
+402,10893.0276542456,29782.5297923871,151 to 200,Pre 1919,Unknown,5,purpose built flat,North West,England,4
+403,14901.3872387961,46244.6355805614,51 to 100,1965 to 1983,Unknown,5,converted flat,South East,England,3
+404,14872.2583710491,36425.336983051,201 to 250,1965 to 1983,Council/Housing Association,4,converted flat,Unknown,Unknown,3
+405,12153.228132763,38859.9789678979,Over 250,Pre 1919,Owner-occupied,3,converted flat,East Midlands,England,3
+406,10330.0464673434,35076.1026395778,50 or less,1993 to 1999,Council/Housing Association,6,purpose built flat,South East,England,2
+407,14650.2112224116,34394.6485386431,51 to 100,1965 to 1983,Council/Housing Association,5,mid terraced,Wales,Wales,1
+408,17501.9570656357,42526.8366872154,51 to 100,1984 to 1992,Privately rented,5,purpose built flat,South West,England,4
+409,21061.9814629866,38458.1241651663,Over 250,Post 1999,Unknown,7,converted flat,Unknown,Unknown,5 or more
+410,6382.51784179403,13629.5299467758,101 to 150,1919 to 1944,Unknown,3,mid terraced,Wales,Wales,1
+411,11613.8650303302,,101 to 150,Pre 1919,Council/Housing Association,4,end terrace,South West,England,2
+412,13308.7074502579,,50 or less,Pre 1919,Owner-occupied,5,mid terraced,South West,England,5 or more
+413,7448.67694201053,17139.8758425823,50 or less,Post 1999,Owner-occupied,3,bungalow,East of England,England,4
+414,11404.6162951453,29696.4086990901,50 or less,1919 to 1944,Unknown,3,converted flat,East of England,England,1
+415,11291.5779652909,28636.8077444094,201 to 250,Post 1999,Unknown,5,converted flat,East of England,England,1
+416,11529.0598198909,26440.3364243295,51 to 100,Post 1999,Owner-occupied,6,detached,Unknown,Unknown,1
+417,5169.43232931253,33366.9665246393,151 to 200,1984 to 1992,Council/Housing Association,4,end terrace,York and Humber,England,4
+418,15584.1390734831,24363.1120527717,151 to 200,1965 to 1983,Privately rented,5,purpose built flat,West Midlands,England,5 or more
+419,11920.1744931337,6316.05683191392,151 to 200,1965 to 1983,Owner-occupied,5,mid terraced,Wales,Wales,5 or more
+420,21250.8877446197,47238.3493182378,51 to 100,Post 1999,Owner-occupied,5,mid terraced,East of England,England,4
+421,18111.2568135976,37270.0326322758,50 or less,1965 to 1983,Privately rented,6,end terrace,Wales,Wales,5 or more
+422,8356.6928935339,26239.4499804216,201 to 250,1984 to 1992,Privately rented,5,converted flat,West Midlands,England,5 or more
+423,15086.0238513971,30216.4042302682,50 or less,Pre 1919,Council/Housing Association,5,unknown,East Midlands,England,5 or more
+424,12086.4001806556,15145.8047370839,51 to 100,1919 to 1944,Unknown,6,mid terraced,West Midlands,England,3
+425,18510.391497546,28331.6701232688,201 to 250,1965 to 1983,Owner-occupied,5,purpose built flat,West Midlands,England,2
+426,14888.8639777612,38426.8869335419,201 to 250,Pre 1919,Council/Housing Association,2,bungalow,North West,England,1
+427,12247.0114435043,31253.2985424406,Over 250,1945 to 1964,Council/Housing Association,6,purpose built flat,Unknown,Unknown,5 or more
+428,16562.5186718353,22054.7202170582,50 or less,1984 to 1992,Unknown,3,bungalow,North West,England,2
+429,15322.6989238415,39697.0546876668,50 or less,1919 to 1944,Owner-occupied,5,semi-detached,East of England,England,2
+430,13946.3960198625,40105.637548444,201 to 250,1919 to 1944,Unknown,4,end terrace,York and Humber,England,3
+431,23416.7286851849,40809.7932372056,201 to 250,1965 to 1983,Privately rented,6,detached,London,England,5 or more
+432,12366.3665931509,31043.9905948166,Over 250,1945 to 1964,Owner-occupied,5,mid terraced,East of England,England,5 or more
+433,12620.0843952983,44624.8868263752,201 to 250,1945 to 1964,Owner-occupied,4,semi-detached,North East,England,2
+434,7958.87643778754,30556.0217585183,201 to 250,1984 to 1992,Unknown,4,mid terraced,North West,England,2
+435,14484.4219284281,44688.5438545209,101 to 150,1993 to 1999,Privately rented,7,purpose built flat,Wales,Wales,3
+436,18520.0387190749,36828.7367528709,201 to 250,Post 1999,Unknown,6,detached,East Midlands,England,4
+437,5679.85483186823,38455.8985155097,50 or less,Pre 1919,Privately rented,4,converted flat,North East,England,2
+438,13576.4645410055,31680.2061889765,Over 250,1945 to 1964,Privately rented,4,converted flat,North East,England,3
+439,9535.46251187755,36996.5356475372,151 to 200,1945 to 1964,Owner-occupied,4,end terrace,North East,England,4
+440,20912.4901843854,36377.9921525783,Over 250,1984 to 1992,Unknown,6,unknown,East Midlands,England,2
+441,20549.3807218629,29173.42512652,51 to 100,1984 to 1992,Unknown,6,purpose built flat,North East,England,4
+442,16109.9754500458,44245.7857934311,Over 250,Post 1999,Privately rented,6,semi-detached,Wales,Wales,2
+443,20858.6177826506,61021.2737108691,201 to 250,1945 to 1964,Privately rented,4,purpose built flat,East Midlands,England,2
+444,10901.9297191935,26708.4111630017,Over 250,1993 to 1999,Unknown,6,purpose built flat,London,England,1
+445,18782.5858971077,51243.1495699935,51 to 100,1993 to 1999,Owner-occupied,6,end terrace,York and Humber,England,4
+446,12124.8535626859,28744.089352999,Over 250,1965 to 1983,Privately rented,3,bungalow,North West,England,5 or more
+447,16052.9270045802,43460.8141167459,201 to 250,Post 1999,Unknown,5,end terrace,West Midlands,England,4
+448,13361.6591134457,22926.9464284073,50 or less,1965 to 1983,Privately rented,5,end terrace,York and Humber,England,2
+449,13453.2468250706,34843.6805232607,Over 250,1965 to 1983,Unknown,6,converted flat,York and Humber,England,4
+450,17026.3633115475,28641.0209506384,201 to 250,Pre 1919,Privately rented,5,unknown,North West,England,5 or more
+451,9007.6918930121,15250.7572415345,151 to 200,1919 to 1944,Owner-occupied,3,bungalow,South East,England,1
+452,13570.9141053646,38507.8263567432,101 to 150,1965 to 1983,Privately rented,4,purpose built flat,East Midlands,England,2
+453,15403.2762735266,49236.5664306385,101 to 150,1965 to 1983,Council/Housing Association,4,converted flat,Wales,Wales,5 or more
+454,12912.0214478617,24360.60191593,Over 250,Pre 1919,Unknown,6,end terrace,York and Humber,England,5 or more
+455,15115.3265873251,25634.8789993131,50 or less,1965 to 1983,Council/Housing Association,5,end terrace,North East,England,2
+456,13278.2260470052,22064.9125650851,51 to 100,1919 to 1944,Owner-occupied,5,purpose built flat,West Midlands,England,5 or more
+457,21678.3653475146,36072.2940652321,51 to 100,Post 1999,Council/Housing Association,5,bungalow,East of England,England,2
+458,17755.0229028478,42726.3588550734,51 to 100,Post 1999,Council/Housing Association,4,purpose built flat,West Midlands,England,2
+459,27520.5995687323,52760.8114185217,201 to 250,1965 to 1983,Unknown,6,detached,York and Humber,England,5 or more
+460,11213.8710155442,34204.6177953299,201 to 250,1945 to 1964,Council/Housing Association,5,end terrace,East Midlands,England,4
+461,18190.7134689721,44031.709646726,50 or less,1965 to 1983,Owner-occupied,6,purpose built flat,North West,England,5 or more
+462,23757.6994151092,38017.7292397271,Over 250,1965 to 1983,Council/Housing Association,7,converted flat,North West,England,5 or more
+463,15967.2165322788,33121.8954505777,151 to 200,1965 to 1983,Council/Housing Association,6,detached,Wales,Wales,5 or more
+464,9965.50716611991,35215.3887936769,201 to 250,Pre 1919,Privately rented,4,purpose built flat,Unknown,Unknown,4
+465,10297.5086714603,26528.8978834773,51 to 100,Pre 1919,Council/Housing Association,5,purpose built flat,North West,England,5 or more
+466,14505.117491624,24308.6895278418,51 to 100,1984 to 1992,Owner-occupied,2,end terrace,North East,England,1
+467,20337.1706201164,26153.2643848973,101 to 150,Post 1999,Privately rented,6,converted flat,North West,England,5 or more
+468,17915.3998864215,61880.3474329168,Over 250,1984 to 1992,Unknown,6,mid terraced,South East,England,2
+469,5388.53986088466,8439.36635667858,51 to 100,1919 to 1944,Council/Housing Association,4,converted flat,North East,England,3
+470,11624.3227390591,30742.0036498606,Over 250,1965 to 1983,Council/Housing Association,5,end terrace,York and Humber,England,5 or more
+471,14621.1398710468,,101 to 150,1984 to 1992,Privately rented,6,detached,South East,England,2
+472,8338.71993678521,35067.5788573518,50 or less,1945 to 1964,Unknown,5,purpose built flat,East Midlands,England,2
+473,17671.8762662714,34682.4784320763,151 to 200,1919 to 1944,Council/Housing Association,5,mid terraced,North East,England,5 or more
+474,3989.55934656817,27943.6643619465,51 to 100,1919 to 1944,Owner-occupied,5,end terrace,West Midlands,England,3
+475,15281.8959112754,50756.9599250876,Over 250,1965 to 1983,Unknown,5,mid terraced,South East,England,2
+476,12962.3188394888,,50 or less,1993 to 1999,Owner-occupied,5,semi-detached,Unknown,Unknown,2
+477,12529.3810761753,26037.1135375445,201 to 250,1984 to 1992,Owner-occupied,6,mid terraced,York and Humber,England,5 or more
+478,13432.5115320165,,51 to 100,1965 to 1983,Privately rented,4,end terrace,West Midlands,England,2
+479,16025.3244603975,52275.555069945,51 to 100,Post 1999,Owner-occupied,3,converted flat,East of England,England,4
+480,16376.7418723543,25936.608939994,Over 250,Pre 1919,Unknown,4,end terrace,West Midlands,England,2
+481,13683.1884181314,39211.8074204656,151 to 200,Pre 1919,Council/Housing Association,3,end terrace,York and Humber,England,4
+482,6312.93278874631,26455.5982818503,201 to 250,1945 to 1964,Council/Housing Association,4,converted flat,North East,England,1
+483,8419.38990922579,33878.7923418306,151 to 200,1945 to 1964,Unknown,5,mid terraced,York and Humber,England,5 or more
+484,8288.40170002716,32110.5422365064,51 to 100,Pre 1919,Unknown,6,purpose built flat,South West,England,2
+485,17965.4714010401,36512.6846562034,50 or less,Pre 1919,Council/Housing Association,6,purpose built flat,South East,England,2
+486,13603.0233435518,36513.650192039,51 to 100,1965 to 1983,Council/Housing Association,5,converted flat,York and Humber,England,2
+487,15829.1892378095,23282.053195081,Over 250,Pre 1919,Privately rented,5,end terrace,West Midlands,England,3
+488,7902.44970529661,13674.3883849607,50 or less,Pre 1919,Unknown,4,bungalow,London,England,4
+489,12338.894298083,37912.2776959927,50 or less,1919 to 1944,Council/Housing Association,5,purpose built flat,North West,England,1
+490,17098.1040859487,36657.9289377279,Over 250,1984 to 1992,Unknown,4,mid terraced,South East,England,2
+491,13886.4227311719,31461.1469862288,51 to 100,Pre 1919,Owner-occupied,7,mid terraced,South West,England,5 or more
+492,14159.9206476176,17287.6089391024,51 to 100,1919 to 1944,Unknown,6,end terrace,West Midlands,England,5 or more
+493,14347.8995111298,27819.1709873341,151 to 200,1984 to 1992,Council/Housing Association,5,end terrace,North East,England,2
+494,19909.4081680231,40413.782134442,201 to 250,Post 1999,Unknown,6,purpose built flat,North East,England,3
+495,11995.0899155534,26283.3997909394,51 to 100,1984 to 1992,Owner-occupied,6,purpose built flat,North West,England,5 or more
+496,17589.8327782377,37096.7375284715,151 to 200,1984 to 1992,Council/Housing Association,5,mid terraced,Wales,Wales,5 or more
+497,18556.0594712054,40886.3791040138,51 to 100,Post 1999,Unknown,8,purpose built flat,North East,England,5 or more
+498,9501.89746970593,27095.0935107947,51 to 100,1919 to 1944,Council/Housing Association,3,converted flat,Wales,Wales,2
+499,15186.4223986822,37970.5043615196,50 or less,1965 to 1983,Owner-occupied,5,mid terraced,South West,England,2
+500,14611.3731414962,31133.5311488629,201 to 250,1965 to 1983,Council/Housing Association,5,mid terraced,Wales,Wales,5 or more
+501,19120.6369105389,34866.2240656953,101 to 150,1984 to 1992,Privately rented,6,detached,Wales,Wales,4
+502,18625.4563582059,34980.3344961029,Over 250,Post 1999,Privately rented,6,purpose built flat,North East,England,4
+503,14650.4207221216,39416.6378688486,Over 250,1965 to 1983,Owner-occupied,5,mid terraced,Wales,Wales,1
+504,15249.8286285654,41711.7090579813,Over 250,1919 to 1944,Unknown,4,end terrace,East Midlands,England,5 or more
+505,11538.7744384707,52222.9553970748,51 to 100,1965 to 1983,Council/Housing Association,3,bungalow,South East,England,2
+506,13802.2789020005,23412.5142702615,151 to 200,Post 1999,Unknown,5,converted flat,York and Humber,England,5 or more
+507,10197.8991838392,22448.2702999776,51 to 100,1965 to 1983,Owner-occupied,5,purpose built flat,East of England,England,5 or more
+508,10465.9422802094,35355.9152777618,Over 250,Pre 1919,Privately rented,4,purpose built flat,Wales,Wales,5 or more
+509,9365.786820634,43564.8150914372,50 or less,Pre 1919,Owner-occupied,6,bungalow,East of England,England,2
+510,18283.9743291149,48490.9634268241,50 or less,1984 to 1992,Unknown,7,detached,East of England,England,5 or more
+511,19492.5826298848,33835.822459416,Over 250,1984 to 1992,Council/Housing Association,5,mid terraced,Unknown,Unknown,3
+512,12869.0799282594,25350.9702124986,50 or less,1965 to 1983,Council/Housing Association,3,unknown,South West,England,4
+513,9763.68142061556,44504.9643068827,Over 250,Post 1999,Council/Housing Association,5,end terrace,East Midlands,England,5 or more
+514,14277.631362015,47508.0696151528,51 to 100,Pre 1919,Owner-occupied,5,mid terraced,York and Humber,England,5 or more
+515,24380.2619040171,45021.6221930286,201 to 250,1945 to 1964,Privately rented,6,semi-detached,North East,England,2
+516,23511.9244353516,58063.1892768827,151 to 200,1984 to 1992,Owner-occupied,6,end terrace,Wales,Wales,2
+517,7202.97471799107,26044.8694651433,50 or less,Pre 1919,Privately rented,4,purpose built flat,North West,England,4
+518,13114.1404476098,24285.1977009923,Over 250,1984 to 1992,Privately rented,6,unknown,York and Humber,England,2
+519,21307.5615377798,39520.5351947097,151 to 200,1965 to 1983,Privately rented,5,semi-detached,East of England,England,1
+520,14493.7780823761,34037.2638725211,Over 250,Pre 1919,Privately rented,4,bungalow,South East,England,2
+521,21587.4739210724,25681.113560753,101 to 150,1965 to 1983,Council/Housing Association,6,converted flat,York and Humber,England,4
+522,13215.1315994842,30428.6884538535,50 or less,Pre 1919,Unknown,5,semi-detached,York and Humber,England,5 or more
+523,17284.6099072059,32120.87283229,201 to 250,Pre 1919,Privately rented,6,purpose built flat,South West,England,5 or more
+524,15631.7896059881,39005.2387904967,201 to 250,1919 to 1944,Owner-occupied,5,converted flat,North East,England,5 or more
+525,28661.2633474202,42254.3316082737,101 to 150,1993 to 1999,Council/Housing Association,5,end terrace,London,England,1
+526,18651.0697786431,41887.3296190687,51 to 100,1965 to 1983,Council/Housing Association,6,converted flat,North West,England,5 or more
+527,9427.64624038643,33325.4666254608,50 or less,Pre 1919,Council/Housing Association,4,mid terraced,South East,England,1
+528,12043.661163348,28267.6356300128,50 or less,1965 to 1983,Council/Housing Association,5,mid terraced,York and Humber,England,5 or more
+529,16263.8356070328,34627.3428269977,Over 250,Post 1999,Owner-occupied,5,mid terraced,East of England,England,5 or more
+530,6417.76187839166,47620.408094027,51 to 100,1919 to 1944,Council/Housing Association,3,detached,North East,England,2
+531,6838.47746322748,40235.0608098947,201 to 250,1984 to 1992,Privately rented,4,detached,South East,England,2
+532,9797.78702844398,43208.2115137377,101 to 150,1984 to 1992,Unknown,7,end terrace,North West,England,2
+533,13152.9477723484,32511.8324250781,50 or less,1945 to 1964,Council/Housing Association,5,converted flat,East of England,England,5 or more
+534,20030.4757379777,30885.6396909942,Over 250,Post 1999,Unknown,7,detached,Wales,Wales,2
+535,13469.5726185527,37626.8375835548,201 to 250,Pre 1919,Council/Housing Association,5,unknown,London,England,5 or more
+536,15365.0737348894,34762.5464701432,151 to 200,1945 to 1964,Council/Housing Association,4,purpose built flat,North East,England,5 or more
+537,14378.9462091758,66701.6168891112,151 to 200,1919 to 1944,Unknown,4,end terrace,East of England,England,1
+538,11602.7633589517,12380.7687090588,50 or less,1965 to 1983,Owner-occupied,5,bungalow,North East,England,3
+539,20564.862974781,37366.9857325485,51 to 100,1919 to 1944,Owner-occupied,5,semi-detached,East of England,England,1
+540,9904.66746012288,42653.6168977147,51 to 100,1945 to 1964,Unknown,4,purpose built flat,York and Humber,England,2
+541,13671.8891092753,12854.9276751365,201 to 250,1993 to 1999,Unknown,4,end terrace,South West,England,4
+542,13153.9080199067,29541.8308398355,50 or less,1919 to 1944,Privately rented,6,mid terraced,South East,England,4
+543,16966.9907222917,38847.6929383287,Over 250,Pre 1919,Owner-occupied,6,semi-detached,South East,England,4
+544,21627.3116739293,38253.0724608897,50 or less,1919 to 1944,Council/Housing Association,6,converted flat,East of England,England,5 or more
+545,16886.0582408107,26929.6398268855,51 to 100,1984 to 1992,Council/Housing Association,7,end terrace,East Midlands,England,4
+546,20655.8220431994,38206.7558425154,50 or less,1919 to 1944,Privately rented,6,purpose built flat,West Midlands,England,4
+547,17967.9885033302,49224.3927831237,51 to 100,Post 1999,Owner-occupied,7,purpose built flat,London,England,5 or more
+548,11952.3521283501,18181.0713630175,50 or less,1965 to 1983,Council/Housing Association,4,bungalow,Unknown,Unknown,2
+549,15015.4755336865,47034.4837697216,Over 250,1945 to 1964,Unknown,6,detached,South East,England,2
+550,20627.0811117411,47869.1726756831,Over 250,Post 1999,Unknown,5,purpose built flat,North West,England,2
+551,7893.01424908712,15231.769929313,50 or less,Pre 1919,Privately rented,7,end terrace,North East,England,4
+552,16068.4793255115,20804.9828568572,50 or less,Pre 1919,Owner-occupied,6,purpose built flat,London,England,2
+553,13979.972792377,33110.0029066118,201 to 250,Pre 1919,Council/Housing Association,4,end terrace,West Midlands,England,1
+554,18467.6222205054,39874.8741251937,Over 250,Post 1999,Unknown,5,bungalow,York and Humber,England,1
+555,17914.0301691855,47745.9715229731,50 or less,1919 to 1944,Unknown,5,mid terraced,North East,England,3
+556,15966.5884341634,34388.3191877572,151 to 200,1919 to 1944,Unknown,5,end terrace,South East,England,5 or more
+557,21133.3371996872,43751.7220807739,Over 250,1919 to 1944,Council/Housing Association,5,end terrace,London,England,4
+558,8045.46984057955,39005.2666257446,Over 250,1919 to 1944,Privately rented,4,semi-detached,West Midlands,England,4
+559,18610.3451421145,48285.9344668378,Over 250,1984 to 1992,Unknown,6,end terrace,West Midlands,England,5 or more
+560,7810.0593706846,34445.0002307336,Over 250,1965 to 1983,Owner-occupied,4,detached,South East,England,5 or more
+561,17207.3440703267,38990.9593845719,151 to 200,Post 1999,Council/Housing Association,4,detached,South East,England,2
+562,15049.108876491,37399.6105817995,101 to 150,Post 1999,Council/Housing Association,5,detached,East of England,England,5 or more
+563,18855.3923570435,48826.8999236203,51 to 100,1919 to 1944,Council/Housing Association,4,converted flat,East of England,England,2
+564,15003.4898806821,44099.526535955,Over 250,1919 to 1944,Privately rented,5,detached,South West,England,2
+565,7857.12036625908,26188.554915501,101 to 150,1965 to 1983,Privately rented,6,bungalow,East of England,England,1
+566,5954.978241803,28301.6910527797,201 to 250,1993 to 1999,Council/Housing Association,4,mid terraced,Wales,Wales,2
+567,17004.8681114494,51590.2593252349,201 to 250,Pre 1919,Privately rented,5,end terrace,Unknown,Unknown,5 or more
+568,14341.4775745975,,50 or less,1945 to 1964,Council/Housing Association,2,purpose built flat,West Midlands,England,4
+569,12184.1560455885,21880.1409035151,50 or less,1965 to 1983,Unknown,6,end terrace,South West,England,4
+570,13313.5695105525,45669.7831387997,50 or less,1919 to 1944,Owner-occupied,3,detached,London,England,2
+571,11749.6351682246,29789.3287056766,51 to 100,Post 1999,Owner-occupied,5,bungalow,East Midlands,England,2
+572,13979.9363566151,18065.0425079471,51 to 100,1965 to 1983,Privately rented,5,end terrace,East of England,England,5 or more
+573,10621.1440794078,41571.2129965301,50 or less,Pre 1919,Owner-occupied,3,purpose built flat,East Midlands,England,2
+574,6064.46937347929,25789.7664068198,51 to 100,1919 to 1944,Privately rented,7,semi-detached,South East,England,4
+575,13707.9048306046,41562.3605598926,Over 250,1984 to 1992,Owner-occupied,5,detached,Wales,Wales,2
+576,19193.6290626153,56046.9212302127,Over 250,1919 to 1944,Privately rented,6,mid terraced,York and Humber,England,2
+577,22800.013306816,51558.3168228346,Over 250,1984 to 1992,Privately rented,4,semi-detached,South West,England,5 or more
+578,14671.8992703385,30156.8948040351,151 to 200,1993 to 1999,Owner-occupied,5,detached,West Midlands,England,2
+579,14311.6727339613,31850.2143305547,151 to 200,Pre 1919,Unknown,4,end terrace,East of England,England,2
+580,18834.8963264202,28328.2633587911,151 to 200,1965 to 1983,Privately rented,5,end terrace,West Midlands,England,5 or more
+581,14893.7736608616,25996.626187775,50 or less,Post 1999,Owner-occupied,5,semi-detached,North East,England,4
+582,12775.8190588539,36176.4785470979,50 or less,1945 to 1964,Privately rented,5,converted flat,North East,England,5 or more
+583,7128.19006314289,23246.764018682,201 to 250,1965 to 1983,Privately rented,5,bungalow,North West,England,5 or more
+584,9180.95348016865,34222.8663388802,Over 250,Pre 1919,Privately rented,4,bungalow,East Midlands,England,4
+585,16421.8836384279,42970.2539612233,151 to 200,1919 to 1944,Council/Housing Association,4,end terrace,East of England,England,4
+586,8331.33897986447,30629.4419907968,50 or less,Pre 1919,Owner-occupied,4,converted flat,North East,England,2
+587,19207.2369813935,34196.8353474096,Over 250,1919 to 1944,Unknown,5,purpose built flat,East Midlands,England,2
+588,8822.08991988815,13705.4059089883,50 or less,1919 to 1944,Owner-occupied,5,end terrace,South East,England,4
+589,13819.8231957824,33702.1847170719,151 to 200,1945 to 1964,Unknown,5,mid terraced,Wales,Wales,2
+590,14650.105257441,23739.4713828477,51 to 100,Post 1999,Unknown,5,end terrace,North West,England,4
+591,14604.1859430036,39439.1621350456,151 to 200,1945 to 1964,Council/Housing Association,4,end terrace,West Midlands,England,5 or more
+592,15320.1085037076,41331.1704049313,Over 250,1945 to 1964,Privately rented,3,purpose built flat,South West,England,4
+593,17253.5889475054,38959.5543453265,50 or less,1965 to 1983,Owner-occupied,4,end terrace,South West,England,1
+594,14111.5195759314,23207.7894754403,50 or less,1919 to 1944,Owner-occupied,4,bungalow,London,England,5 or more
+595,13580.8396656998,25332.7662273875,51 to 100,1965 to 1983,Privately rented,5,purpose built flat,South West,England,1
+596,15355.529648884,29541.2700647283,Over 250,1919 to 1944,Council/Housing Association,6,mid terraced,North East,England,2
+597,12778.8792929411,32983.3318764727,Over 250,1984 to 1992,Owner-occupied,5,mid terraced,East of England,England,3
+598,21324.1356739143,62046.5776102187,Over 250,1984 to 1992,Owner-occupied,3,semi-detached,York and Humber,England,2
+599,5249.36859823445,15588.2892922631,51 to 100,1919 to 1944,Unknown,6,end terrace,Wales,Wales,2
+600,19114.8684639232,17664.1105457276,50 or less,1919 to 1944,Unknown,5,bungalow,York and Humber,England,4
+601,13582.3291997377,31268.64284818,Over 250,1984 to 1992,Council/Housing Association,4,bungalow,South West,England,2
+602,16491.5776861245,27407.1047696783,50 or less,Post 1999,Council/Housing Association,4,purpose built flat,West Midlands,England,2
+603,18941.5063685086,17348.4883737351,Over 250,1919 to 1944,Council/Housing Association,5,converted flat,London,England,2
+604,18284.3708217311,28842.2134625043,151 to 200,1919 to 1944,Owner-occupied,6,purpose built flat,South West,England,2
+605,11795.2484533553,27143.2575435687,50 or less,1945 to 1964,Privately rented,5,bungalow,London,England,1
+606,21442.4745633658,29815.9404633412,101 to 150,1919 to 1944,Council/Housing Association,5,converted flat,Wales,Wales,4
+607,7624.93259640434,33224.9497587457,50 or less,1945 to 1964,Privately rented,4,bungalow,West Midlands,England,5 or more
+608,18405.2504154361,45624.7746498312,Over 250,Post 1999,Unknown,5,semi-detached,South East,England,2
+609,12440.738198644,28235.3964930031,50 or less,Post 1999,Council/Housing Association,6,converted flat,East of England,England,4
+610,6346.83379534956,11421.0087184808,201 to 250,Pre 1919,Owner-occupied,6,mid terraced,Wales,Wales,1
+611,6570.93086291937,31054.8742738149,Over 250,1965 to 1983,Council/Housing Association,4,purpose built flat,York and Humber,England,1
+612,15723.9301553392,26505.2498291409,51 to 100,Pre 1919,Owner-occupied,3,bungalow,South West,England,1
+613,24299.1539690454,35174.8132016873,51 to 100,1919 to 1944,Privately rented,5,end terrace,West Midlands,England,5 or more
+614,15846.5594867704,36014.4304703163,151 to 200,Post 1999,Owner-occupied,5,unknown,London,England,4
+615,19563.9617224961,29147.8577542535,151 to 200,1984 to 1992,Owner-occupied,5,purpose built flat,South West,England,3
+616,18297.6637657734,34275.8785807718,51 to 100,1965 to 1983,Owner-occupied,7,detached,South West,England,5 or more
+617,11821.5884003276,23454.3717673581,51 to 100,1984 to 1992,Owner-occupied,5,bungalow,West Midlands,England,5 or more
+618,18796.9833685853,41191.2285777396,51 to 100,Post 1999,Council/Housing Association,6,end terrace,North East,England,3
+619,16189.3702322166,27046.2616741187,50 or less,1965 to 1983,Privately rented,5,mid terraced,West Midlands,England,3
+620,15556.8491108825,26446.3972452946,Over 250,1945 to 1964,Owner-occupied,5,end terrace,West Midlands,England,4
+621,19000.9943457666,28726.8183783924,50 or less,1965 to 1983,Unknown,6,purpose built flat,London,England,2
+622,17901.3407560864,36746.0493632375,201 to 250,1984 to 1992,Owner-occupied,4,detached,Unknown,Unknown,4
+623,11944.6543642439,42145.3994700195,Over 250,Pre 1919,Privately rented,5,end terrace,North East,England,2
+624,16375.2927108487,26825.7895275612,51 to 100,Pre 1919,Privately rented,5,bungalow,North West,England,5 or more
+625,10793.0558160169,31690.2368233585,51 to 100,1965 to 1983,Council/Housing Association,6,end terrace,Wales,Wales,3
+626,17394.0771296438,30006.6195270106,51 to 100,1945 to 1964,Council/Housing Association,5,mid terraced,London,England,2
+627,12784.0942396479,21430.5109825485,Over 250,1965 to 1983,Council/Housing Association,5,end terrace,South West,England,2
+628,16620.1436460996,45584.5294157003,51 to 100,Post 1999,Privately rented,5,mid terraced,South East,England,2
+629,16256.2436792588,29699.0001295107,51 to 100,Post 1999,Council/Housing Association,5,bungalow,East of England,England,5 or more
+630,13489.505622129,47458.2708866507,Over 250,Post 1999,Unknown,3,purpose built flat,East of England,England,1
+631,16679.7714389072,29014.9926193919,50 or less,1984 to 1992,Council/Housing Association,6,semi-detached,Wales,Wales,2
+632,17151.7558398534,42047.850475402,Over 250,1945 to 1964,Owner-occupied,5,detached,North West,England,2
+633,13659.6910355493,42856.8256208372,151 to 200,1945 to 1964,Council/Housing Association,5,end terrace,East of England,England,2
+634,19741.5086380587,58471.2358076456,Over 250,1984 to 1992,Unknown,5,mid terraced,East of England,England,2
+635,20699.8856144458,31621.0112214021,Over 250,Post 1999,Owner-occupied,6,mid terraced,West Midlands,England,2
+636,11788.9413969265,31347.3838505587,201 to 250,1919 to 1944,Council/Housing Association,5,converted flat,West Midlands,England,4
+637,11291.582916967,38889.5639799339,50 or less,1919 to 1944,Council/Housing Association,6,converted flat,West Midlands,England,5 or more
+638,16886.850531786,30954.1647239251,50 or less,Post 1999,Privately rented,6,mid terraced,South East,England,5 or more
+639,10699.4314524049,35121.3591733171,51 to 100,Pre 1919,Privately rented,5,mid terraced,South East,England,4
+640,12710.7829296839,27511.2878954554,50 or less,1984 to 1992,Privately rented,4,end terrace,East of England,England,4
+641,18143.1654295312,26280.3870408687,Over 250,1993 to 1999,Owner-occupied,6,end terrace,South West,England,4
+642,12174.2215144058,10085.9420998125,50 or less,1945 to 1964,Council/Housing Association,5,purpose built flat,London,England,2
+643,6299.01552897588,30044.7868489797,50 or less,1919 to 1944,Privately rented,5,purpose built flat,London,England,5 or more
+644,17542.6425585586,33091.0913922848,151 to 200,1945 to 1964,Privately rented,4,converted flat,South East,England,2
+645,7710.78532859315,42685.9620037359,151 to 200,Post 1999,Privately rented,5,end terrace,London,England,5 or more
+646,8786.34626266842,17236.3882621448,151 to 200,1919 to 1944,Council/Housing Association,5,purpose built flat,East Midlands,England,1
+647,1574.25107145916,16018.2509314484,51 to 100,Pre 1919,Owner-occupied,5,bungalow,East Midlands,England,2
+648,18263.1634903255,44550.223245383,Over 250,Post 1999,Council/Housing Association,5,detached,South East,England,5 or more
+649,15750.5017178348,32084.3468762915,151 to 200,1984 to 1992,Unknown,4,bungalow,North West,England,4
+650,16665.1105815379,39990.844669433,101 to 150,1965 to 1983,Privately rented,6,end terrace,York and Humber,England,3
+651,18324.2822206188,49705.676008271,Over 250,1984 to 1992,Privately rented,4,mid terraced,West Midlands,England,2
+652,14478.8208793029,53631.6850679947,Over 250,Pre 1919,Unknown,5,end terrace,South West,England,4
+653,9866.02989444542,29221.3237690585,51 to 100,1919 to 1944,Council/Housing Association,4,end terrace,North West,England,3
+654,17102.9708582441,28019.8519320965,Over 250,1945 to 1964,Owner-occupied,4,end terrace,South West,England,2
+655,20311.7192243887,28869.1945687575,51 to 100,1965 to 1983,Unknown,5,purpose built flat,West Midlands,England,1
+656,8156.20265308628,21947.6088776467,Over 250,1919 to 1944,Privately rented,5,bungalow,South East,England,5 or more
+657,12030.5347918565,26878.3458202795,151 to 200,1993 to 1999,Privately rented,5,purpose built flat,East Midlands,England,4
+658,13392.5723211525,20881.599087691,101 to 150,Post 1999,Privately rented,4,bungalow,West Midlands,England,4
+659,9070.51456493221,33544.4363100381,Over 250,1984 to 1992,Privately rented,5,converted flat,South West,England,2
+660,17670.9188840336,49728.0265325078,201 to 250,1993 to 1999,Unknown,5,semi-detached,East Midlands,England,5 or more
+661,12064.0764668882,26753.5141185054,50 or less,1984 to 1992,Owner-occupied,6,purpose built flat,Wales,Wales,5 or more
+662,20110.2025891116,29085.747571699,Over 250,Post 1999,Council/Housing Association,3,mid terraced,West Midlands,England,1
+663,14891.2943021841,21767.9410927887,51 to 100,1919 to 1944,Council/Housing Association,6,semi-detached,East Midlands,England,2
+664,17816.9013893519,43759.5001995954,Over 250,Post 1999,Unknown,4,purpose built flat,South East,England,5 or more
+665,21428.567762198,40405.2831405685,101 to 150,1945 to 1964,Unknown,6,detached,North West,England,5 or more
+666,15811.1484753383,16772.8165601802,51 to 100,1919 to 1944,Privately rented,4,unknown,North West,England,4
+667,19329.9466034553,36890.0884594159,Over 250,1984 to 1992,Unknown,6,unknown,Unknown,Unknown,4
+668,15574.4753090428,34353.6173109838,Over 250,1965 to 1983,Owner-occupied,6,purpose built flat,Wales,Wales,4
+669,8105.10402058685,19116.3198212218,51 to 100,Pre 1919,Unknown,4,purpose built flat,Wales,Wales,1
+670,14756.8948014266,22126.3099879965,50 or less,1984 to 1992,Unknown,5,end terrace,West Midlands,England,3
+671,17774.5956497105,32280.164279304,50 or less,1965 to 1983,Owner-occupied,5,mid terraced,South East,England,5 or more
+672,16783.5095762699,28971.8279120105,101 to 150,1945 to 1964,Council/Housing Association,4,mid terraced,West Midlands,England,5 or more
+673,13905.5718982903,26405.8523941616,50 or less,1965 to 1983,Council/Housing Association,5,purpose built flat,South West,England,4
+674,9381.3318165044,6724.83055176275,50 or less,1984 to 1992,Owner-occupied,4,mid terraced,London,England,4
+675,17461.1797559376,34814.9741114392,51 to 100,Pre 1919,Unknown,4,end terrace,South East,England,2
+676,10685.8386156105,38416.7682885907,Over 250,1919 to 1944,Unknown,3,purpose built flat,East of England,England,5 or more
+677,9233.34060343062,38930.1671774685,201 to 250,1965 to 1983,Unknown,4,purpose built flat,Wales,Wales,2
+678,17238.9541703739,55387.8760884645,Over 250,1945 to 1964,Council/Housing Association,4,end terrace,Unknown,Unknown,1
+679,9316.27007407822,30677.6310112683,50 or less,1965 to 1983,Unknown,4,unknown,East of England,England,1
+680,15719.9263569205,24656.7969303819,50 or less,Post 1999,Council/Housing Association,3,bungalow,East of England,England,2
+681,14672.2581055069,38165.1483278009,51 to 100,Pre 1919,Owner-occupied,5,converted flat,South West,England,2
+682,8902.72988704681,38075.9193715552,50 or less,1965 to 1983,Privately rented,3,bungalow,North East,England,1
+683,19775.8479847093,56124.6516140495,Over 250,1945 to 1964,Privately rented,6,detached,York and Humber,England,2
+684,12088.6957050886,38513.7161600801,151 to 200,Pre 1919,Privately rented,5,mid terraced,West Midlands,England,4
+685,19861.1931795366,51834.8870452766,51 to 100,1945 to 1964,Privately rented,5,detached,Wales,Wales,2
+686,12600.9786722289,35534.7169365087,Over 250,Pre 1919,Owner-occupied,4,unknown,East of England,England,2
+687,12168.7717386227,19056.6883192945,50 or less,1945 to 1964,Unknown,5,purpose built flat,North East,England,2
+688,14524.8277761759,25264.2474339059,50 or less,1965 to 1983,Council/Housing Association,4,purpose built flat,South East,England,2
+689,13106.729734122,49574.7601754503,Over 250,Post 1999,Owner-occupied,4,semi-detached,East of England,England,2
+690,13113.0665970157,38516.471891886,201 to 250,1984 to 1992,Unknown,5,semi-detached,Unknown,Unknown,5 or more
+691,10854.0883618409,23468.5746911297,Over 250,Pre 1919,Unknown,4,converted flat,East Midlands,England,1
+692,9399.82404155936,21682.37911971,50 or less,Pre 1919,Privately rented,4,mid terraced,East of England,England,2
+693,17317.8441726719,27458.1928766396,Over 250,1984 to 1992,Privately rented,6,mid terraced,South West,England,2
+694,11164.4481046133,31404.9819746565,101 to 150,Pre 1919,Unknown,3,end terrace,East Midlands,England,2
+695,8691.03506782367,25244.5176048523,151 to 200,Post 1999,Unknown,3,bungalow,York and Humber,England,1
+696,12458.5398409461,22479.6994417789,Over 250,Post 1999,Privately rented,6,mid terraced,South West,England,4
+697,11188.9170372982,41393.9928631191,50 or less,Pre 1919,Privately rented,4,purpose built flat,West Midlands,England,3
+698,5151.89501653236,24275.6977339187,101 to 150,1945 to 1964,Privately rented,3,converted flat,Wales,Wales,2
+699,13397.5115149013,,Over 250,1993 to 1999,Privately rented,5,detached,North West,England,3
+700,15385.2969506719,30611.7846814357,Over 250,1965 to 1983,Privately rented,5,converted flat,North West,England,1
+701,15937.3012362974,36346.414651435,50 or less,Post 1999,Owner-occupied,3,end terrace,London,England,1
+702,16362.5448222582,44795.0402774964,50 or less,1984 to 1992,Council/Housing Association,4,converted flat,North West,England,4
+703,10322.9932116615,35506.9697502748,51 to 100,Post 1999,Unknown,4,mid terraced,East Midlands,England,1
+704,13249.7937609598,40868.7527554661,Over 250,Pre 1919,Council/Housing Association,5,converted flat,South East,England,2
+705,10287.1558148551,12073.5496813249,50 or less,1965 to 1983,Owner-occupied,6,unknown,East of England,England,2
+706,11903.5198043684,32400.4727744625,Over 250,1984 to 1992,Privately rented,6,end terrace,South East,England,1
+707,9416.7737256007,26500.5920907285,50 or less,Pre 1919,Unknown,6,bungalow,East of England,England,4
+708,9819.39101032548,22612.2746760255,51 to 100,1945 to 1964,Council/Housing Association,4,end terrace,North East,England,2
+709,17390.6961187345,30895.930286211,51 to 100,1965 to 1983,Owner-occupied,6,end terrace,South East,England,2
+710,13479.7564719629,47964.0111620757,50 or less,1919 to 1944,Council/Housing Association,5,end terrace,East Midlands,England,5 or more
+711,13538.6348734281,36374.9206217576,Over 250,1984 to 1992,Privately rented,5,mid terraced,East of England,England,5 or more
+712,22159.9275258234,39478.9107066364,51 to 100,1965 to 1983,Unknown,6,detached,South West,England,5 or more
+713,14406.958019048,41984.6397580619,50 or less,1919 to 1944,Owner-occupied,4,mid terraced,North West,England,5 or more
+714,12330.1894781446,26061.6291181291,50 or less,1984 to 1992,Owner-occupied,6,converted flat,South East,England,5 or more
+715,17898.6004703858,37940.3041421625,151 to 200,1984 to 1992,Council/Housing Association,5,converted flat,East Midlands,England,2
+716,12549.182043987,44905.8010323008,Over 250,1993 to 1999,Owner-occupied,5,end terrace,North West,England,3
+717,20611.8651708755,36196.8946731652,50 or less,Post 1999,Unknown,3,end terrace,London,England,2
+718,13021.4108175095,24370.5536560031,Over 250,1919 to 1944,Owner-occupied,5,purpose built flat,London,England,5 or more
+719,11990.5788535736,25698.3724135982,51 to 100,1984 to 1992,Owner-occupied,7,bungalow,East of England,England,2
+720,9595.70934351848,18645.3272739055,50 or less,Pre 1919,Council/Housing Association,4,purpose built flat,South West,England,1
+721,16085.8932709146,37219.5093631117,Over 250,1945 to 1964,Privately rented,5,converted flat,South East,England,5 or more
+722,21018.4856847438,42774.568296051,151 to 200,Pre 1919,Unknown,5,end terrace,West Midlands,England,2
+723,13118.4655969224,39939.1023084991,Over 250,Pre 1919,Owner-occupied,6,detached,West Midlands,England,4
+724,15795.4861790207,51416.7473908648,151 to 200,1945 to 1964,Unknown,3,purpose built flat,York and Humber,England,1
+725,16106.238246272,48014.9692239191,201 to 250,Post 1999,Owner-occupied,5,detached,South West,England,4
+726,20826.2925993806,27822.7825064914,Over 250,1965 to 1983,Unknown,4,mid terraced,West Midlands,England,3
+727,17540.5614601653,54979.525083793,50 or less,1945 to 1964,Council/Housing Association,5,purpose built flat,East of England,England,2
+728,10005.3035105035,30179.8302519503,Over 250,1945 to 1964,Owner-occupied,5,purpose built flat,Unknown,Unknown,4
+729,11638.2361020158,26865.3951137444,151 to 200,Pre 1919,Owner-occupied,5,purpose built flat,West Midlands,England,3
+730,11426.2795110494,47624.3938673345,50 or less,1984 to 1992,Owner-occupied,5,bungalow,South East,England,4
+731,15275.8676753643,38068.4865403073,Over 250,1945 to 1964,Unknown,5,mid terraced,York and Humber,England,2
+732,14643.5024293839,49621.235537694,50 or less,1965 to 1983,Council/Housing Association,6,end terrace,London,England,2
+733,16256.1918360087,34616.5201965855,50 or less,1965 to 1983,Owner-occupied,6,end terrace,East Midlands,England,2
+734,11809.3592503729,23814.5088920179,51 to 100,1919 to 1944,Council/Housing Association,5,mid terraced,South East,England,1
+735,13027.6254214425,13463.7731802201,50 or less,1965 to 1983,Privately rented,4,mid terraced,London,England,1
+736,17873.2520929102,47152.3461733639,50 or less,Post 1999,Owner-occupied,6,purpose built flat,North West,England,2
+737,14229.7408519327,24725.2347784561,50 or less,1984 to 1992,Unknown,5,semi-detached,Unknown,Unknown,2
+738,11821.9033116921,38811.9492759851,201 to 250,1965 to 1983,Privately rented,6,detached,London,England,5 or more
+739,18872.1009217315,38717.9909191669,201 to 250,Pre 1919,Privately rented,7,detached,North East,England,4
+740,14719.5706992206,37929.419030012,51 to 100,Post 1999,Council/Housing Association,3,unknown,East Midlands,England,2
+741,10684.745379342,41391.8499118813,201 to 250,1919 to 1944,Privately rented,7,purpose built flat,East Midlands,England,2
+742,22073.6030122687,36204.1353448139,50 or less,1919 to 1944,Owner-occupied,6,unknown,Unknown,Unknown,2
+743,9595.67156514199,24157.2131138611,101 to 150,Post 1999,Owner-occupied,5,end terrace,West Midlands,England,2
+744,6939.40507797885,23693.5624549084,101 to 150,1945 to 1964,Owner-occupied,4,end terrace,West Midlands,England,1
+745,4890.06570947506,33761.5680054676,151 to 200,1984 to 1992,Council/Housing Association,5,purpose built flat,West Midlands,England,2
+746,17482.3154591391,31788.6990448723,51 to 100,1984 to 1992,Council/Housing Association,5,semi-detached,York and Humber,England,3
+747,12351.5986419239,29541.2885963223,50 or less,1965 to 1983,Unknown,4,converted flat,East of England,England,5 or more
+748,13464.5572027556,39727.3756345605,51 to 100,Post 1999,Privately rented,4,purpose built flat,East Midlands,England,3
+749,15914.9104100813,41971.6372857387,51 to 100,1945 to 1964,Privately rented,5,detached,Unknown,Unknown,1
+750,12638.1605435459,38915.7258862596,151 to 200,1919 to 1944,Owner-occupied,5,purpose built flat,Unknown,Unknown,3
+751,7689.44946888669,27056.9020221492,101 to 150,Pre 1919,Council/Housing Association,5,unknown,North West,England,5 or more
+752,6205.78647906602,32272.4258274597,Over 250,Pre 1919,Unknown,3,bungalow,North West,England,4
+753,13185.0869679156,34674.6253930462,201 to 250,1984 to 1992,Privately rented,5,end terrace,Wales,Wales,3
+754,15416.6199499493,28280.5301640346,151 to 200,Pre 1919,Privately rented,6,semi-detached,South East,England,4
+755,4786.25331044455,40614.7016945464,151 to 200,1945 to 1964,Council/Housing Association,4,converted flat,North East,England,5 or more
+756,15919.6183631662,17270.5636028997,201 to 250,Pre 1919,Council/Housing Association,4,purpose built flat,North East,England,3
+757,16490.9806250198,43161.3639785535,51 to 100,1993 to 1999,Privately rented,5,detached,West Midlands,England,4
+758,20275.6924890858,42169.9982577508,Over 250,1945 to 1964,Owner-occupied,5,converted flat,South West,England,2
+759,15373.7323325093,34370.4380279713,50 or less,1945 to 1964,Unknown,6,end terrace,North East,England,2
+760,15547.6795144478,28611.5933536979,51 to 100,1984 to 1992,Council/Housing Association,5,unknown,South East,England,3
+761,17283.3849896385,33594.0753140038,50 or less,1945 to 1964,Privately rented,5,bungalow,London,England,4
+762,14577.9236645853,50256.9950209249,51 to 100,Post 1999,Owner-occupied,5,mid terraced,Unknown,Unknown,4
+763,14313.2883715432,32206.503085661,201 to 250,1965 to 1983,Council/Housing Association,5,detached,South West,England,1
+764,15161.2050883171,30352.1470998308,50 or less,1984 to 1992,Unknown,6,converted flat,South East,England,5 or more
+765,17885.0227374082,28414.8629480331,50 or less,1919 to 1944,Council/Housing Association,7,mid terraced,London,England,5 or more
+766,12792.2134854228,26980.1885506946,50 or less,1919 to 1944,Unknown,5,converted flat,North West,England,2
+767,12494.8581654,30535.7265026402,Over 250,Pre 1919,Owner-occupied,5,end terrace,North West,England,4
+768,10908.3522678699,17069.5102096549,51 to 100,1945 to 1964,Council/Housing Association,5,converted flat,London,England,2
+769,10509.8129662554,40055.9283108954,Over 250,1919 to 1944,Owner-occupied,4,purpose built flat,South East,England,5 or more
+770,16075.7383979996,35763.3220890193,Over 250,1945 to 1964,Privately rented,5,semi-detached,North East,England,5 or more
+771,21370.5796101944,53754.1949315784,101 to 150,1965 to 1983,Council/Housing Association,5,mid terraced,Unknown,Unknown,4
+772,10459.5814236422,38583.845686636,51 to 100,1965 to 1983,Unknown,7,mid terraced,South East,England,2
+773,13842.969982176,45877.6402838711,151 to 200,1984 to 1992,Unknown,4,purpose built flat,North East,England,1
+774,10195.2222459328,16569.1356676866,50 or less,1919 to 1944,Unknown,7,end terrace,North West,England,3
+775,18595.5983951655,42744.6619408314,50 or less,1965 to 1983,Privately rented,6,end terrace,South East,England,2
+776,13285.0578892898,28717.8952813132,201 to 250,Pre 1919,Owner-occupied,5,purpose built flat,London,England,2
+777,15436.9858283929,33779.8107068763,Over 250,1965 to 1983,Unknown,5,end terrace,North West,England,2
+778,16169.3038823376,29331.0822588209,50 or less,1919 to 1944,Privately rented,6,converted flat,South East,England,4
+779,10087.4890991221,30971.5658070283,50 or less,1945 to 1964,Owner-occupied,4,purpose built flat,South West,England,4
+780,14206.4268518867,33882.4088454691,201 to 250,1965 to 1983,Privately rented,6,unknown,York and Humber,England,3
+781,13670.8418618997,12655.2471268692,201 to 250,Pre 1919,Unknown,6,mid terraced,West Midlands,England,2
+782,17590.4134034802,44306.2482189643,50 or less,Post 1999,Council/Housing Association,4,end terrace,York and Humber,England,4
+783,9314.2507054884,29639.2396032209,Over 250,Pre 1919,Council/Housing Association,5,purpose built flat,North East,England,2
+784,9456.27236434535,19248.0062583993,201 to 250,1945 to 1964,Owner-occupied,5,purpose built flat,North East,England,2
+785,17980.051816344,26420.8147368741,151 to 200,1919 to 1944,Council/Housing Association,5,converted flat,South East,England,1
+786,12109.8970207266,,Over 250,1984 to 1992,Council/Housing Association,5,purpose built flat,North West,England,5 or more
+787,11795.6979186019,15828.1902300359,201 to 250,1919 to 1944,Unknown,5,mid terraced,South East,England,3
+788,15151.6237921595,35223.8228162267,50 or less,1965 to 1983,Council/Housing Association,5,end terrace,North West,England,4
+789,13270.5958978889,46135.811508132,50 or less,1945 to 1964,Council/Housing Association,3,bungalow,North East,England,2
+790,22750.7292528294,43215.8963640652,51 to 100,Post 1999,Council/Housing Association,4,mid terraced,Unknown,Unknown,1
+791,15786.6745880442,39492.1010145547,Over 250,1984 to 1992,Council/Housing Association,6,end terrace,London,England,2
+792,15360.9157407857,20273.9725280359,151 to 200,1945 to 1964,Privately rented,6,detached,North East,England,2
+793,18698.683425171,23031.422257093,Over 250,1965 to 1983,Privately rented,6,end terrace,York and Humber,England,4
+794,14398.6233855569,24814.4050535823,151 to 200,1984 to 1992,Unknown,5,bungalow,North West,England,3
+795,14872.6825180806,40406.9496492064,151 to 200,Pre 1919,Unknown,7,detached,South West,England,2
+796,10009.1303753556,20607.6115874623,51 to 100,1984 to 1992,Privately rented,4,mid terraced,South West,England,1
+797,4717.40613962586,28901.7242652343,50 or less,1993 to 1999,Owner-occupied,5,bungalow,South West,England,2
+798,9427.10391333214,26261.9958522568,51 to 100,Pre 1919,Privately rented,4,purpose built flat,York and Humber,England,3
+799,15154.3692037857,37527.2837894277,201 to 250,1919 to 1944,Council/Housing Association,6,semi-detached,York and Humber,England,5 or more
+800,10178.9473831227,19330.0974717155,101 to 150,1919 to 1944,Council/Housing Association,5,bungalow,East of England,England,2
+801,17645.661242243,27514.7900714765,Over 250,1919 to 1944,Privately rented,6,unknown,South West,England,4
+802,17805.8288193773,35571.6173484142,50 or less,1965 to 1983,Unknown,5,end terrace,London,England,4
+803,15603.7096781662,32429.959996892,201 to 250,1984 to 1992,Privately rented,7,end terrace,York and Humber,England,2
+804,13784.4256098032,15865.7653443972,50 or less,1945 to 1964,Owner-occupied,5,purpose built flat,North West,England,5 or more
+805,8740.94368880206,32653.4419611672,Over 250,Pre 1919,Unknown,5,converted flat,West Midlands,England,2
+806,13321.1591842109,13903.4625432043,50 or less,1965 to 1983,Privately rented,8,semi-detached,North East,England,5 or more
+807,12698.5308436944,27640.9409945284,Over 250,1984 to 1992,Unknown,5,end terrace,North East,England,5 or more
+808,17534.1125464768,36795.784532063,Over 250,1945 to 1964,Unknown,4,purpose built flat,North West,England,5 or more
+809,20332.8051278287,32468.3809061704,50 or less,Pre 1919,Council/Housing Association,7,semi-detached,London,England,2
+810,16831.1164248576,22461.865598097,51 to 100,1993 to 1999,Privately rented,6,end terrace,West Midlands,England,2
+811,9768.42459907907,24914.7959030908,51 to 100,1984 to 1992,Council/Housing Association,5,bungalow,Unknown,Unknown,2
+812,21905.0544388997,39546.4333710033,Over 250,1984 to 1992,Owner-occupied,6,purpose built flat,North West,England,4
+813,19041.4583061485,29121.3343465226,51 to 100,1945 to 1964,Owner-occupied,5,mid terraced,South West,England,4
+814,15631.1616106833,21714.0332814561,201 to 250,Post 1999,Unknown,6,purpose built flat,South West,England,5 or more
+815,5093.05682323205,12872.6212892337,50 or less,1945 to 1964,Council/Housing Association,4,end terrace,East of England,England,5 or more
+816,10523.3438883051,24439.9103649125,51 to 100,1993 to 1999,Unknown,4,converted flat,North East,England,1
+817,14363.1986535219,28930.3132949068,50 or less,1965 to 1983,Council/Housing Association,4,end terrace,South West,England,1
+818,17959.5822906456,49976.32615468,151 to 200,1945 to 1964,Council/Housing Association,6,end terrace,West Midlands,England,5 or more
+819,9546.59407950245,16400.5219146039,50 or less,Post 1999,Council/Housing Association,4,bungalow,London,England,5 or more
+820,28583.9781101382,50711.4835250436,Over 250,1919 to 1944,Privately rented,5,mid terraced,West Midlands,England,2
+821,3587.53699353171,18659.9272729627,Over 250,1919 to 1944,Council/Housing Association,4,purpose built flat,York and Humber,England,1
+822,13639.3176105667,33316.5221764017,Over 250,1984 to 1992,Unknown,4,purpose built flat,York and Humber,England,2
+823,13536.3292637649,26141.1304125545,Over 250,1965 to 1983,Unknown,6,end terrace,London,England,5 or more
+824,11786.1647356221,38132.384274286,151 to 200,1945 to 1964,Council/Housing Association,4,end terrace,East of England,England,4
+825,13279.0863003752,16165.3198926897,50 or less,Post 1999,Council/Housing Association,5,bungalow,North West,England,2
+826,17879.6447587873,38059.1854787607,50 or less,Post 1999,Unknown,4,detached,York and Humber,England,2
+827,10868.5495806594,29967.6857288739,50 or less,1945 to 1964,Privately rented,5,unknown,North East,England,2
+828,5630.23030016561,34448.1877062756,50 or less,1945 to 1964,Owner-occupied,3,bungalow,West Midlands,England,2
+829,15067.1307909535,31754.8804467415,50 or less,1965 to 1983,Unknown,5,semi-detached,South East,England,2
+830,14651.9258973671,38092.2363322409,201 to 250,1965 to 1983,Privately rented,4,purpose built flat,North West,England,1
+831,14605.3102716554,37134.3173721972,50 or less,1965 to 1983,Owner-occupied,4,end terrace,North West,England,5 or more
+832,17556.3908310003,30251.1686475484,50 or less,1919 to 1944,Privately rented,4,end terrace,West Midlands,England,2
+833,14605.1320978838,32615.4980369967,Over 250,1919 to 1944,Privately rented,6,unknown,York and Humber,England,3
+834,18023.2243986895,35515.1242874545,51 to 100,Post 1999,Council/Housing Association,5,end terrace,South West,England,5 or more
+835,5943.07565674221,35350.6858592735,151 to 200,Pre 1919,Council/Housing Association,4,end terrace,East Midlands,England,5 or more
+836,9767.93292714328,1e+06,201 to 250,1945 to 1964,Owner-occupied,3,converted flat,South West,England,1
+837,16171.0187690161,37659.0546892155,201 to 250,Pre 1919,Council/Housing Association,6,mid terraced,East of England,England,2
+838,13129.2158771019,53865.7554971183,51 to 100,1919 to 1944,Owner-occupied,3,end terrace,East of England,England,1
+839,18756.9540330505,41375.0711852348,Over 250,1984 to 1992,Unknown,5,converted flat,Wales,Wales,4
+840,10303.9095356835,32561.1001312732,151 to 200,1965 to 1983,Owner-occupied,4,converted flat,East of England,England,2
+841,17799.2801446991,41513.8966206809,51 to 100,1919 to 1944,Owner-occupied,6,converted flat,East Midlands,England,5 or more
+842,11760.100867893,45077.7356136834,51 to 100,1965 to 1983,Owner-occupied,5,purpose built flat,West Midlands,England,4
+843,9835.12130491216,37698.0460101815,51 to 100,1993 to 1999,Owner-occupied,6,semi-detached,North West,England,4
+844,13172.8570995296,35156.1268872761,201 to 250,1993 to 1999,Privately rented,4,purpose built flat,North West,England,2
+845,14877.7633201286,27953.2988655223,Over 250,Pre 1919,Unknown,5,detached,East Midlands,England,2
+846,9338.63995886483,31556.4508573655,50 or less,Pre 1919,Unknown,4,bungalow,South West,England,1
+847,11349.2859369454,31519.619057448,101 to 150,Pre 1919,Unknown,4,purpose built flat,East Midlands,England,2
+848,9255.57444745443,10965.7348828291,50 or less,1984 to 1992,Privately rented,4,mid terraced,York and Humber,England,2
+849,19070.5394952808,23376.7301276202,Over 250,Pre 1919,Council/Housing Association,6,converted flat,North East,England,3
+850,17796.4396053679,19759.5404285973,201 to 250,1965 to 1983,Owner-occupied,3,converted flat,South East,England,2
+851,10184.3787792054,42278.9366978367,50 or less,1984 to 1992,Owner-occupied,4,mid terraced,East of England,England,2
+852,17078.6904988639,41614.7696211626,51 to 100,1965 to 1983,Council/Housing Association,7,detached,North East,England,5 or more
+853,13552.9147816938,10381.7611226029,101 to 150,1945 to 1964,Owner-occupied,4,purpose built flat,South East,England,3
+854,9832.72164871532,33073.4786974668,Over 250,Post 1999,Council/Housing Association,3,end terrace,North West,England,4
+855,16486.2418797739,35845.2638376251,Over 250,Post 1999,Unknown,5,end terrace,North East,England,4
+856,13260.5566274273,29680.0354500181,101 to 150,1965 to 1983,Owner-occupied,4,purpose built flat,North East,England,4
+857,18474.8605530186,30242.9845754942,50 or less,1965 to 1983,Owner-occupied,6,purpose built flat,North East,England,2
+858,13815.8933382479,20754.1495706734,50 or less,1965 to 1983,Unknown,7,converted flat,York and Humber,England,4
+859,19809.3398672476,46586.4060616946,101 to 150,1945 to 1964,Unknown,6,end terrace,East Midlands,England,4
+860,12450.7056738768,25883.2965542286,201 to 250,1984 to 1992,Unknown,3,purpose built flat,London,England,2
+861,15610.8849351706,33151.7467539683,151 to 200,Pre 1919,Council/Housing Association,6,detached,South East,England,5 or more
+862,16264.785156619,40520.9618443408,Over 250,1993 to 1999,Owner-occupied,6,unknown,East of England,England,2
+863,15869.0211071174,39645.8427339249,101 to 150,Post 1999,Council/Housing Association,5,mid terraced,East Midlands,England,2
+864,15536.8123341082,30635.2121078266,201 to 250,Post 1999,Privately rented,4,converted flat,South East,England,2
+865,14603.6014154746,,151 to 200,1965 to 1983,Owner-occupied,5,end terrace,East Midlands,England,3
+866,14264.9174699757,35491.4216854518,Over 250,Post 1999,Privately rented,6,purpose built flat,York and Humber,England,5 or more
+867,20579.1939678081,28255.6973012943,151 to 200,Pre 1919,Owner-occupied,7,detached,West Midlands,England,5 or more
+868,18596.2570949564,40189.5407933891,101 to 150,1919 to 1944,Privately rented,5,detached,East of England,England,4
+869,12017.9665446818,32474.509951433,51 to 100,1945 to 1964,Unknown,5,detached,Wales,Wales,2
+870,20713.8539121371,41752.7380388335,Over 250,Post 1999,Owner-occupied,4,mid terraced,Wales,Wales,2
+871,15287.5774250525,31473.4263183459,Over 250,1919 to 1944,Unknown,3,unknown,London,England,2
+872,11884.8136699923,14593.0796472683,51 to 100,1919 to 1944,Privately rented,4,mid terraced,York and Humber,England,3
+873,15394.6818249795,15410.8518049473,Over 250,1919 to 1944,Owner-occupied,6,purpose built flat,South West,England,4
+874,13980.3439282415,20704.271825773,50 or less,1945 to 1964,Privately rented,5,mid terraced,York and Humber,England,5 or more
+875,15097.7828548668,37306.0751786004,50 or less,1984 to 1992,Council/Housing Association,3,purpose built flat,York and Humber,England,3
+876,10441.6700832495,27880.3411672101,51 to 100,1965 to 1983,Owner-occupied,6,mid terraced,North West,England,2
+877,11107.8300248843,23093.5158459555,51 to 100,1984 to 1992,Unknown,6,bungalow,York and Humber,England,2
+878,20568.1029500008,31953.4613519318,201 to 250,Post 1999,Privately rented,5,end terrace,South East,England,5 or more
+879,18830.1164676744,42712.6129460011,Over 250,1919 to 1944,Owner-occupied,6,mid terraced,East of England,England,2
+880,10826.8175231028,14622.6495564173,50 or less,Post 1999,Privately rented,3,purpose built flat,West Midlands,England,2
+881,10758.2679189248,36613.3141898035,50 or less,1984 to 1992,Council/Housing Association,3,unknown,West Midlands,England,5 or more
+882,22130.3555912636,45006.1747754532,51 to 100,Post 1999,Council/Housing Association,7,detached,East of England,England,5 or more
+883,22936.446381933,33457.4859379012,Over 250,1919 to 1944,Unknown,5,end terrace,West Midlands,England,5 or more
+884,11290.4100110897,29224.8100286829,151 to 200,1965 to 1983,Owner-occupied,4,purpose built flat,South East,England,2
+885,9014.45686525605,36254.524712917,50 or less,Pre 1919,Privately rented,5,end terrace,North East,England,1
+886,26035.4559691868,57273.0068276416,Over 250,1984 to 1992,Privately rented,5,unknown,London,England,4
+887,15656.7766165682,48358.7537996778,51 to 100,1919 to 1944,Privately rented,4,end terrace,South East,England,5 or more
+888,15471.6467658917,37721.1082055124,51 to 100,1984 to 1992,Unknown,5,purpose built flat,North East,England,3
+889,14988.7175043263,31772.6118829936,Over 250,1965 to 1983,Unknown,6,purpose built flat,East of England,England,5 or more
+890,20750.6848572854,43704.9819535929,151 to 200,1945 to 1964,Unknown,5,unknown,South West,England,1
+891,13828.4139472679,30223.0476109564,101 to 150,1984 to 1992,Owner-occupied,6,purpose built flat,North East,England,2
+892,20987.9339208752,30296.9504024403,50 or less,Post 1999,Unknown,6,detached,East Midlands,England,2
+893,13702.6482348119,40406.0558577196,50 or less,Post 1999,Council/Housing Association,5,converted flat,North East,England,2
+894,16850.3860318227,42103.7247550796,201 to 250,1984 to 1992,Privately rented,3,mid terraced,East Midlands,England,1
+895,10179.0432888212,40837.7209846933,51 to 100,Pre 1919,Owner-occupied,3,converted flat,South East,England,2
+896,15397.5865511858,49767.7773338526,51 to 100,Post 1999,Owner-occupied,4,semi-detached,East of England,England,2
+897,19864.4320685827,52338.1653628247,Over 250,1945 to 1964,Council/Housing Association,5,end terrace,Wales,Wales,5 or more
+898,13953.3457967186,40138.648468836,Over 250,1919 to 1944,Owner-occupied,6,mid terraced,South East,England,4
+899,20222.2296344216,38583.1754799171,51 to 100,Post 1999,Council/Housing Association,4,converted flat,North East,England,1
+900,26483.1958698852,,Over 250,1993 to 1999,Unknown,7,detached,East Midlands,England,2
+901,18746.0005336318,33609.2806879607,Over 250,1919 to 1944,Council/Housing Association,4,mid terraced,South East,England,4
+902,13581.0622563306,25089.9206372981,Over 250,1984 to 1992,Privately rented,4,semi-detached,York and Humber,England,3
+903,15077.3959955802,30218.5017039328,50 or less,1984 to 1992,Privately rented,4,end terrace,London,England,1
+904,12780.7067838908,37343.6549636578,50 or less,1965 to 1983,Privately rented,4,bungalow,Wales,Wales,2
+905,24107.1926880145,46339.976358493,51 to 100,Post 1999,Unknown,5,purpose built flat,East of England,England,2
+906,1831.23423906543,9562.2054192018,151 to 200,Pre 1919,Privately rented,6,bungalow,Unknown,Unknown,4
+907,15011.1361050161,44999.8608142254,51 to 100,1984 to 1992,Privately rented,4,detached,South East,England,1
+908,15137.448251501,45998.8766433114,Over 250,1984 to 1992,Privately rented,5,purpose built flat,North West,England,3
+909,15587.6185416245,48233.4959645842,50 or less,1945 to 1964,Privately rented,4,converted flat,East Midlands,England,2
+910,7907.28528253856,15366.5122282159,201 to 250,1984 to 1992,Privately rented,6,end terrace,West Midlands,England,2
+911,15595.8829535279,30512.1242886786,Over 250,Post 1999,Privately rented,4,purpose built flat,London,England,1
+912,15472.9293160794,30425.9613512629,151 to 200,1919 to 1944,Council/Housing Association,4,purpose built flat,East Midlands,England,1
+913,20116.6689361919,34601.7077274024,51 to 100,1984 to 1992,Owner-occupied,5,purpose built flat,South West,England,4
+914,16928.7965777942,30406.5068621885,Over 250,1965 to 1983,Council/Housing Association,6,converted flat,York and Humber,England,2
+915,19495.0920283769,32974.5280402707,151 to 200,1984 to 1992,Privately rented,5,end terrace,North West,England,5 or more
+916,10508.2025967732,20292.9657255254,51 to 100,Pre 1919,Unknown,5,purpose built flat,North West,England,3
+917,14121.5075059501,27660.4350394339,Over 250,1919 to 1944,Owner-occupied,5,purpose built flat,North East,England,5 or more
+918,15489.7851591382,31167.2620743202,101 to 150,1919 to 1944,Unknown,3,end terrace,West Midlands,England,1
+919,15840.192875735,36423.8192203728,201 to 250,Pre 1919,Owner-occupied,5,mid terraced,London,England,4
+920,11650.6641476219,36159.0756899936,201 to 250,1984 to 1992,Owner-occupied,6,end terrace,East Midlands,England,4
+921,21073.3797346556,48720.7655693388,Over 250,1919 to 1944,Owner-occupied,5,converted flat,South East,England,2
+922,12006.0455303812,23355.494207056,50 or less,1945 to 1964,Unknown,4,bungalow,Wales,Wales,4
+923,7661.60294722498,26967.6417762188,Over 250,Pre 1919,Owner-occupied,4,converted flat,North East,England,2
+924,16405.9805842958,57013.1439945015,Over 250,Post 1999,Unknown,5,mid terraced,London,England,2
+925,17541.1688967768,31967.5574519903,50 or less,1919 to 1944,Owner-occupied,6,converted flat,North East,England,5 or more
+926,18753.6832542228,44405.2030150061,51 to 100,1984 to 1992,Owner-occupied,4,end terrace,West Midlands,England,3
+927,10557.7733200755,22886.9081607938,51 to 100,Pre 1919,Owner-occupied,4,purpose built flat,East of England,England,2
+928,13583.6543042753,42358.0665585391,50 or less,Pre 1919,Unknown,6,converted flat,North East,England,4
+929,8901.20812985458,32889.4533427068,51 to 100,Pre 1919,Privately rented,4,end terrace,South West,England,1
+930,18321.624743425,,51 to 100,Post 1999,Unknown,7,detached,Wales,Wales,2
+931,16166.9411494288,44522.7096279853,101 to 150,1984 to 1992,Privately rented,5,end terrace,South West,England,2
+932,18623.9094335503,47876.3938902087,51 to 100,1945 to 1964,Owner-occupied,5,detached,South West,England,5 or more
+933,17297.6779439616,44305.1010102178,50 or less,Pre 1919,Unknown,5,mid terraced,York and Humber,England,2
+934,12027.3659024651,4978.78491811329,51 to 100,1965 to 1983,Council/Housing Association,6,end terrace,York and Humber,England,5 or more
+935,15438.5050910496,35565.2275729271,Over 250,1984 to 1992,Owner-occupied,6,detached,West Midlands,England,4
+936,6385.89860091452,39529.1354422654,50 or less,Pre 1919,Unknown,4,converted flat,South West,England,2
+937,16840.8387259625,33996.1834882599,51 to 100,1945 to 1964,Owner-occupied,5,purpose built flat,London,England,2
+938,18862.612647653,31431.7541273818,Over 250,1993 to 1999,Council/Housing Association,5,mid terraced,East Midlands,England,3
+939,10864.9863971583,28276.6028838557,Over 250,1984 to 1992,Council/Housing Association,5,converted flat,York and Humber,England,5 or more
+940,5400.05058990869,2059.78973306161,50 or less,1945 to 1964,Owner-occupied,4,end terrace,North West,England,5 or more
+941,8057.98900944372,16315.4845613363,Over 250,1945 to 1964,Owner-occupied,5,converted flat,West Midlands,England,5 or more
+942,9834.58391720753,27892.7387141155,50 or less,1965 to 1983,Unknown,6,purpose built flat,West Midlands,England,4
+943,20042.7314591723,46558.6599675653,Over 250,1984 to 1992,Council/Housing Association,4,detached,South West,England,2
+944,14674.5303776125,35454.4141756792,50 or less,1984 to 1992,Owner-occupied,5,semi-detached,York and Humber,England,2
+945,9293.92977505111,34172.4455781992,Over 250,Pre 1919,Council/Housing Association,4,bungalow,York and Humber,England,1
+946,17068.5507994657,26172.1386918435,Over 250,Post 1999,Owner-occupied,6,purpose built flat,South West,England,5 or more
+947,5196.83412510444,38037.2872956001,151 to 200,1965 to 1983,Unknown,4,end terrace,East Midlands,England,5 or more
+948,13589.1950362106,43532.8069488435,Over 250,1984 to 1992,Owner-occupied,4,purpose built flat,South East,England,4
+949,19483.7669470096,43971.04497686,Over 250,1984 to 1992,Unknown,6,purpose built flat,North West,England,5 or more
+950,13179.7512544308,30379.5526714675,51 to 100,1965 to 1983,Owner-occupied,6,detached,Wales,Wales,5 or more
+951,20321.198503484,47077.6997072752,51 to 100,1945 to 1964,Owner-occupied,5,semi-detached,South East,England,2
+952,22442.4901717289,35312.8531700781,Over 250,Post 1999,Council/Housing Association,7,detached,West Midlands,England,5 or more
+953,9595.26087121536,20262.1651197165,51 to 100,1945 to 1964,Council/Housing Association,6,end terrace,South East,England,5 or more
+954,9662.62121781345,7698.12430715987,201 to 250,1945 to 1964,Owner-occupied,5,converted flat,Unknown,Unknown,5 or more
+955,10695.8733233782,31360.9553544527,51 to 100,1984 to 1992,Unknown,5,purpose built flat,South West,England,5 or more
+956,16954.7165291547,14082.07309589,50 or less,Pre 1919,Owner-occupied,6,end terrace,North West,England,5 or more
+957,18281.2113584925,36789.46341076,101 to 150,1965 to 1983,Privately rented,5,purpose built flat,West Midlands,England,3
+958,19901.9039272054,42737.988910082,Over 250,1984 to 1992,Council/Housing Association,5,mid terraced,West Midlands,England,5 or more
+959,20296.0883457047,46378.7546215173,51 to 100,1965 to 1983,Privately rented,6,converted flat,York and Humber,England,2
+960,19323.1284130125,47598.8090985309,Over 250,1965 to 1983,Owner-occupied,5,unknown,South East,England,5 or more
+961,18734.929982912,43216.9362564116,51 to 100,1919 to 1944,Owner-occupied,6,unknown,London,England,2
+962,15370.0235202454,26111.6504122335,101 to 150,1919 to 1944,Privately rented,5,end terrace,North West,England,4
+963,10809.7946197266,37994.9290607416,50 or less,1919 to 1944,Council/Housing Association,5,converted flat,West Midlands,England,1
+964,11511.8059337819,30947.4082394209,Over 250,1919 to 1944,Unknown,5,mid terraced,South West,England,5 or more
+965,16426.3247862334,17753.1180055523,151 to 200,Post 1999,Council/Housing Association,5,bungalow,North East,England,4
+966,21960.958379527,39576.1790073369,Over 250,Post 1999,Privately rented,6,purpose built flat,South East,England,2
+967,22058.3376995819,24051.5652608318,101 to 150,Post 1999,Owner-occupied,6,mid terraced,South West,England,4
+968,6311.10690284471,15388.6423924165,50 or less,1984 to 1992,Council/Housing Association,5,purpose built flat,North East,England,5 or more
+969,11046.2727553846,24106.0610335273,50 or less,1984 to 1992,Owner-occupied,6,end terrace,East Midlands,England,5 or more
+970,20813.5410631397,34018.7202897705,50 or less,1993 to 1999,Unknown,5,purpose built flat,North East,England,5 or more
+971,10046.0389885448,37586.8370974223,50 or less,Pre 1919,Privately rented,4,converted flat,South East,England,1
+972,7663.55678273288,25960.7652698549,51 to 100,1919 to 1944,Owner-occupied,3,mid terraced,North West,England,1
+973,17259.0412626005,27249.1128830064,51 to 100,Post 1999,Unknown,6,end terrace,North West,England,4
+974,22173.0588789513,34917.8122204914,51 to 100,Post 1999,Council/Housing Association,6,converted flat,West Midlands,England,4
+975,23048.116821586,36323.6995938134,Over 250,1993 to 1999,Privately rented,6,detached,Wales,Wales,4
+976,16968.5229500727,37486.7025894114,51 to 100,1965 to 1983,Privately rented,7,end terrace,East of England,England,5 or more
+977,17781.2184204314,41571.4489313549,201 to 250,Post 1999,Privately rented,5,purpose built flat,East Midlands,England,5 or more
+978,17090.3372419657,31905.4137867899,50 or less,Pre 1919,Owner-occupied,3,purpose built flat,York and Humber,England,2
+979,14580.7901964863,30202.1342306793,50 or less,Pre 1919,Unknown,6,purpose built flat,North West,England,3
+980,41.5122887439611,23919.3915281866,201 to 250,1919 to 1944,Unknown,4,unknown,York and Humber,England,1
+981,17958.3600465871,28568.5708578089,201 to 250,1965 to 1983,Unknown,5,unknown,North West,England,4
+982,12966.0782655851,30281.4007478553,51 to 100,Post 1999,Owner-occupied,7,end terrace,West Midlands,England,5 or more
+983,19037.4096111895,36426.7631967936,51 to 100,Post 1999,Privately rented,4,converted flat,Unknown,Unknown,2
+984,11941.8635134087,23622.4204150905,51 to 100,1965 to 1983,Owner-occupied,4,converted flat,York and Humber,England,4
+985,7572.04402158731,20315.0659107231,50 or less,1919 to 1944,Council/Housing Association,5,bungalow,North West,England,2
+986,20059.6470297209,35890.6984222548,50 or less,1919 to 1944,Privately rented,4,purpose built flat,East Midlands,England,2
+987,15445.3423961146,25979.9386559841,151 to 200,Post 1999,Privately rented,4,detached,South West,England,1
+988,29816.7015738754,47467.9095912045,51 to 100,1984 to 1992,Privately rented,6,unknown,North East,England,2
+989,18629.3275117945,25425.9969253483,Over 250,1984 to 1992,Owner-occupied,5,detached,West Midlands,England,1
+990,19206.9363548439,41439.2238050102,50 or less,1984 to 1992,Council/Housing Association,4,semi-detached,South East,England,2
+991,17971.3398173484,32324.1216771688,201 to 250,1919 to 1944,Council/Housing Association,6,purpose built flat,South East,England,4
+992,12045.7450415189,38354.0040469419,101 to 150,1965 to 1983,Privately rented,4,mid terraced,North East,England,2
+993,-434,35862.8892285919,51 to 100,1919 to 1944,Privately rented,6,bungalow,York and Humber,England,2
+994,19256.8880245317,33182.2378759982,151 to 200,1965 to 1983,Owner-occupied,5,bungalow,East of England,England,3
+995,19236.5547455996,34701.6867229195,Over 250,1984 to 1992,Council/Housing Association,4,purpose built flat,South East,England,5 or more
+996,17186.8305749489,41639.908094362,50 or less,Post 1999,Privately rented,3,unknown,South East,England,2
+997,10383.144369841,36125.5838992517,51 to 100,Post 1999,Owner-occupied,6,detached,York and Humber,England,2
+998,21962.8291077266,45096.9711193878,Over 250,1965 to 1983,Council/Housing Association,7,purpose built flat,North East,England,5 or more
+999,8735.77100272874,30694.3160382299,51 to 100,1984 to 1992,Owner-occupied,5,end terrace,North West,England,4
+1000,12783.4750187188,14950.7818581559,201 to 250,1965 to 1983,Unknown,6,end terrace,Wales,Wales,4
+1001,24739.3276752291,44484.816982357,151 to 200,1984 to 1992,Council/Housing Association,6,semi-detached,North West,England,3
+1002,16932.6876273203,22424.4825483618,151 to 200,1919 to 1944,Council/Housing Association,4,purpose built flat,South East,England,4
+1003,18869.8084341374,38304.6183411901,201 to 250,1919 to 1944,Privately rented,5,detached,York and Humber,England,5 or more
+1004,16294.0275155655,28883.4672078274,51 to 100,1965 to 1983,Privately rented,7,mid terraced,North West,England,2
+1005,10340.3515721094,28221.3185465617,51 to 100,1993 to 1999,Owner-occupied,5,bungalow,South East,England,4
+1006,12067.8556262219,19869.2105954007,101 to 150,1945 to 1964,Council/Housing Association,5,end terrace,South West,England,5 or more
+1007,15375.2972985217,32620.1703231991,Over 250,1965 to 1983,Unknown,4,detached,East of England,England,5 or more
+1008,1963.0934294387,35174.6013784598,51 to 100,Pre 1919,Unknown,5,end terrace,South East,England,4
+1009,10983.3012206172,46908.1842330988,50 or less,Pre 1919,Privately rented,4,end terrace,North West,England,3
+1010,18121.1115998192,13585.4493395008,201 to 250,1965 to 1983,Unknown,6,end terrace,Wales,Wales,4
+1011,13367.3729352383,16709.291956368,151 to 200,1919 to 1944,Owner-occupied,6,mid terraced,North West,England,4
+1012,13431.9145923672,18956.0234529993,101 to 150,1984 to 1992,Privately rented,6,purpose built flat,South East,England,3
+1013,18431.6143979659,25227.9404688062,201 to 250,1984 to 1992,Privately rented,5,mid terraced,South East,England,2
+1014,12300.6871670072,50574.9570799736,Over 250,1945 to 1964,Privately rented,4,converted flat,North West,England,5 or more
+1015,17387.2124849284,45631.0306231511,50 or less,1984 to 1992,Privately rented,4,end terrace,Wales,Wales,5 or more
+1016,8493.83092492272,26365.0639953738,50 or less,1965 to 1983,Privately rented,3,end terrace,London,England,4
+1017,9339.87234916783,37398.471094,51 to 100,1919 to 1944,Privately rented,3,end terrace,North West,England,2
+1018,7402.51827137784,47463.2076104804,Over 250,1984 to 1992,Council/Housing Association,5,converted flat,Wales,Wales,4
+1019,15028.1281566062,,Over 250,1984 to 1992,Owner-occupied,7,semi-detached,North West,England,5 or more
+1020,13768.0947655772,49180.1370286493,51 to 100,1984 to 1992,Privately rented,6,purpose built flat,North East,England,3
+1021,20911.3953632972,28871.6929988088,Over 250,1919 to 1944,Unknown,5,bungalow,North West,England,2
+1022,14479.4389580293,23183.1080573057,Over 250,1945 to 1964,Council/Housing Association,6,detached,South West,England,4
+1023,20531.5977306739,49214.6592875334,50 or less,1919 to 1944,Unknown,4,end terrace,North West,England,2
+1024,23095.1129120511,50088.6598603799,51 to 100,1965 to 1983,Unknown,4,mid terraced,South East,England,2
+1025,12530.2144475016,39499.2106046753,50 or less,1945 to 1964,Council/Housing Association,5,detached,East of England,England,5 or more
+1026,16343.858155483,39654.6318165979,50 or less,Pre 1919,Unknown,6,semi-detached,York and Humber,England,2
+1027,10999.0772206491,25446.9876929072,151 to 200,Pre 1919,Unknown,4,end terrace,North West,England,1
+1028,17859.8003050291,45480.1165172514,Over 250,Post 1999,Privately rented,6,purpose built flat,Wales,Wales,2
+1029,9980.17568887003,46127.4025325301,Over 250,1945 to 1964,Owner-occupied,5,end terrace,North East,England,4
+1030,10209.2686226343,40678.6493064474,50 or less,1919 to 1944,Unknown,7,purpose built flat,South West,England,5 or more
+1031,15910.956832649,21771.2586663059,151 to 200,Post 1999,Unknown,4,mid terraced,South East,England,1
+1032,15054.7440307125,38279.7886829844,51 to 100,1984 to 1992,Unknown,3,converted flat,South East,England,2
+1033,15799.2987984032,34687.5843004309,51 to 100,Post 1999,Privately rented,5,purpose built flat,South West,England,5 or more
+1034,14960.927842423,34562.4227297224,Over 250,1965 to 1983,Owner-occupied,5,mid terraced,North East,England,5 or more
+1035,12370.2301251138,29492.9867623543,101 to 150,Post 1999,Council/Housing Association,4,end terrace,West Midlands,England,4
+1036,14095.204086468,21064.2735629637,51 to 100,1984 to 1992,Privately rented,4,unknown,West Midlands,England,2
+1037,21683.1615069297,,101 to 150,Post 1999,Owner-occupied,5,purpose built flat,North West,England,2
+1038,14584.0127777916,46020.2534080659,151 to 200,1965 to 1983,Owner-occupied,4,converted flat,West Midlands,England,4
+1039,8944.65196940879,43136.8728798819,Over 250,Pre 1919,Owner-occupied,5,detached,South East,England,2
+1040,10996.7931942784,34339.2294269806,201 to 250,1965 to 1983,Owner-occupied,4,mid terraced,South West,England,5 or more
+1041,9882.42924384432,21868.7797202418,Over 250,1993 to 1999,Owner-occupied,5,bungalow,East Midlands,England,2
+1042,10758.8755454054,24164.3017972015,201 to 250,Pre 1919,Owner-occupied,5,bungalow,Wales,Wales,2
+1043,9190.89709283255,22358.9739959485,51 to 100,1965 to 1983,Privately rented,5,bungalow,North West,England,2
+1044,3274.01347464806,27899.9362620097,Over 250,1945 to 1964,Council/Housing Association,5,purpose built flat,South West,England,3
+1045,17562.4185354647,34102.4574830608,Over 250,1984 to 1992,Owner-occupied,6,detached,Wales,Wales,5 or more
+1046,17522.0136507657,63427.1780824328,Over 250,1919 to 1944,Owner-occupied,4,mid terraced,York and Humber,England,4
+1047,13572.2001850562,29877.0020446686,50 or less,Pre 1919,Unknown,5,end terrace,East Midlands,England,5 or more
+1048,11524.0731576872,31753.7819924885,Over 250,Post 1999,Privately rented,4,semi-detached,North East,England,1
+1049,11140.8127772953,28057.8296004732,51 to 100,1965 to 1983,Privately rented,5,mid terraced,East of England,England,2
+1050,16387.2609555456,29146.354255323,101 to 150,1945 to 1964,Unknown,6,purpose built flat,West Midlands,England,5 or more
+1051,15640.8483231778,42346.5128690308,50 or less,Pre 1919,Privately rented,5,mid terraced,York and Humber,England,5 or more
+1052,16489.7838182459,30319.9530824965,Over 250,1945 to 1964,Privately rented,4,bungalow,East of England,England,2
+1053,14679.3353114202,33495.33468416,51 to 100,1965 to 1983,Council/Housing Association,5,mid terraced,East Midlands,England,2
+1054,17344.5637495001,33459.4292579158,201 to 250,1965 to 1983,Unknown,5,detached,South West,England,4
+1055,16530.4326009217,8842.65764437492,151 to 200,Post 1999,Privately rented,4,end terrace,Wales,Wales,1
+1056,17080.7388177125,41920.1930053657,51 to 100,1993 to 1999,Council/Housing Association,7,end terrace,South West,England,2
+1057,16810.4397489669,37045.5859100896,51 to 100,Post 1999,Owner-occupied,5,end terrace,West Midlands,England,5 or more
+1058,21865.4625580349,32558.044766025,151 to 200,1945 to 1964,Owner-occupied,7,end terrace,East Midlands,England,2
+1059,10086.9734065448,41701.1274354272,51 to 100,1919 to 1944,Unknown,3,converted flat,Wales,Wales,2
+1060,21199.67880846,28075.1880969152,51 to 100,1993 to 1999,Owner-occupied,7,converted flat,Wales,Wales,5 or more
+1061,13212.7041888956,15400.420577982,50 or less,1965 to 1983,Unknown,4,end terrace,North West,England,1
+1062,14376.9404608262,26751.4405426792,201 to 250,Post 1999,Privately rented,8,detached,South East,England,3
+1063,15011.8856441973,22725.7782889717,Over 250,1919 to 1944,Council/Housing Association,5,mid terraced,Wales,Wales,5 or more
+1064,12716.28599523,38927.5423732304,201 to 250,1919 to 1944,Council/Housing Association,5,mid terraced,North East,England,4
+1065,3588.81731647428,23369.1437780295,101 to 150,Pre 1919,Privately rented,5,purpose built flat,York and Humber,England,4
+1066,13304.0644514391,28660.2576021612,Over 250,Pre 1919,Privately rented,6,end terrace,South East,England,5 or more
+1067,14840.3990282632,33717.9228873351,51 to 100,1965 to 1983,Unknown,4,converted flat,East of England,England,2
+1068,7125.88764527313,17149.8004997077,Over 250,Pre 1919,Council/Housing Association,4,converted flat,London,England,1
+1069,17044.4015612092,37498.3842000774,Over 250,1993 to 1999,Owner-occupied,5,purpose built flat,East of England,England,1
+1070,12068.8660196764,32686.505956813,51 to 100,Post 1999,Council/Housing Association,4,converted flat,North East,England,2
+1071,20935.7428588956,38957.5809487839,Over 250,Post 1999,Privately rented,5,purpose built flat,East Midlands,England,2
+1072,15809.377243596,34554.8787746978,51 to 100,1919 to 1944,Owner-occupied,5,purpose built flat,London,England,2
+1073,11239.2221151043,19727.9709161745,201 to 250,1945 to 1964,Owner-occupied,3,end terrace,North East,England,4
+1074,15388.4058323948,42916.1821646577,151 to 200,1945 to 1964,Privately rented,5,detached,Wales,Wales,4
+1075,15776.9491296051,20655.6657519684,Over 250,Pre 1919,Owner-occupied,6,mid terraced,Wales,Wales,4
+1076,18616.5880375244,58185.1317703961,151 to 200,Post 1999,Owner-occupied,5,end terrace,Wales,Wales,3
+1077,13978.6736511367,47972.0675328922,Over 250,Pre 1919,Council/Housing Association,7,detached,North East,England,2
+1078,5843.83873930656,29644.9220374512,51 to 100,1919 to 1944,Council/Housing Association,3,bungalow,North West,England,2
+1079,9024.61461449412,,201 to 250,1945 to 1964,Privately rented,6,purpose built flat,York and Humber,England,5 or more
+1080,10942.7674175454,33783.3814986331,101 to 150,1984 to 1992,Privately rented,5,end terrace,South East,England,2
+1081,16509.0839704249,19717.9921020448,50 or less,Post 1999,Privately rented,8,purpose built flat,South East,England,5 or more
+1082,13424.6613865541,29714.6551710938,51 to 100,1919 to 1944,Council/Housing Association,6,purpose built flat,York and Humber,England,5 or more
+1083,11995.6062863101,38230.4060788623,201 to 250,Pre 1919,Privately rented,4,unknown,London,England,1
+1084,10995.2402766035,37710.2387912208,50 or less,1965 to 1983,Council/Housing Association,4,converted flat,London,England,1
+1085,15327.4273287537,34416.1273270639,Over 250,1919 to 1944,Unknown,5,detached,East of England,England,4
+1086,10968.2931695918,27596.9055224236,201 to 250,Pre 1919,Unknown,5,semi-detached,North East,England,3
+1087,12934.6611821632,34220.8844172645,50 or less,Pre 1919,Unknown,4,mid terraced,North East,England,1
+1088,10583.9434795508,14560.5554340104,51 to 100,1965 to 1983,Council/Housing Association,4,semi-detached,London,England,2
+1089,8642.26572877053,24017.6288761956,50 or less,1965 to 1983,Unknown,6,bungalow,South East,England,5 or more
+1090,18800.3294861582,54475.7120598044,51 to 100,1965 to 1983,Owner-occupied,6,detached,North West,England,3
+1091,8950.06172416287,11582.3689737295,Over 250,Pre 1919,Privately rented,5,unknown,South West,England,2
+1092,14977.3781896619,48999.5251670629,50 or less,1984 to 1992,Council/Housing Association,4,purpose built flat,Unknown,Unknown,2
+1093,12198.7230936131,35970.1199100282,50 or less,1965 to 1983,Unknown,5,purpose built flat,Wales,Wales,5 or more
+1094,10072.1403850532,25570.5185919062,51 to 100,Pre 1919,Privately rented,6,end terrace,London,England,4
+1095,15783.7667609993,55485.9754939776,51 to 100,1965 to 1983,Unknown,3,purpose built flat,East Midlands,England,4
+1096,16277.3945852216,34669.2437505104,Over 250,Post 1999,Privately rented,6,semi-detached,West Midlands,England,4
+1097,20144.7638742648,56558.9367217497,51 to 100,Post 1999,Owner-occupied,6,purpose built flat,South East,England,2
+1098,16070.5129989687,35070.9584750516,Over 250,1945 to 1964,Council/Housing Association,6,detached,North East,England,4
+1099,14060.2995833178,38039.4636731133,201 to 250,1945 to 1964,Privately rented,5,purpose built flat,North West,England,2
+1100,25942.4350023031,39179.2836978623,51 to 100,Post 1999,Council/Housing Association,4,detached,South East,England,2
+1101,11839.2777280848,21999.3723170038,Over 250,Post 1999,Council/Housing Association,4,end terrace,North West,England,2
+1102,10311.7474081075,10469.7136111038,50 or less,1984 to 1992,Unknown,4,bungalow,Unknown,Unknown,2
+1103,12340.3039834552,25353.6259208347,Over 250,Pre 1919,Council/Housing Association,5,detached,London,England,3
+1104,14181.2423043603,39781.8710038305,201 to 250,Post 1999,Unknown,5,purpose built flat,East Midlands,England,1
+1105,17263.1733105229,25707.0972821998,51 to 100,1965 to 1983,Council/Housing Association,6,end terrace,York and Humber,England,3
+1106,16464.329733221,24384.6215989174,Over 250,1945 to 1964,Owner-occupied,6,purpose built flat,West Midlands,England,5 or more
+1107,14201.2901634388,28898.5368740858,201 to 250,1919 to 1944,Council/Housing Association,4,mid terraced,North East,England,5 or more
+1108,10948.0135170667,31290.7192244887,151 to 200,1984 to 1992,Unknown,7,converted flat,South West,England,2
+1109,19546.5761482596,33635.8973295739,51 to 100,Post 1999,Unknown,6,end terrace,Wales,Wales,3
+1110,18631.5459021822,48697.5975957142,Over 250,Post 1999,Unknown,4,detached,South East,England,2
+1111,11518.9072669667,33099.8309852738,50 or less,1945 to 1964,Council/Housing Association,4,converted flat,York and Humber,England,5 or more
+1112,17636.2710786565,36047.0482742015,151 to 200,1945 to 1964,Council/Housing Association,6,detached,West Midlands,England,4
+1113,16610.9033406489,25063.0960142862,151 to 200,Post 1999,Unknown,5,mid terraced,East Midlands,England,5 or more
+1114,19190.1702230982,29162.679248984,51 to 100,Pre 1919,Owner-occupied,6,purpose built flat,South West,England,3
+1115,15307.8230470863,38402.2039339915,151 to 200,1945 to 1964,Council/Housing Association,5,unknown,East of England,England,1
+1116,9714.00384371926,25479.9070095711,151 to 200,1984 to 1992,Council/Housing Association,6,purpose built flat,York and Humber,England,5 or more
+1117,18140.4812871379,47221.8162162113,50 or less,1993 to 1999,Owner-occupied,4,converted flat,London,England,5 or more
+1118,11500.6671785414,15068.5518470302,51 to 100,1945 to 1964,Privately rented,5,purpose built flat,London,England,5 or more
+1119,16947.6789758052,38837.7144078254,201 to 250,Post 1999,Council/Housing Association,5,purpose built flat,Unknown,Unknown,2
+1120,21915.2997911823,35683.8171113568,50 or less,1919 to 1944,Unknown,7,converted flat,East Midlands,England,2
+1121,8509.75961502397,41087.1690356509,51 to 100,1919 to 1944,Unknown,5,purpose built flat,North East,England,1
+1122,21434.1964060222,44110.5784804053,201 to 250,Post 1999,Privately rented,6,end terrace,South East,England,3
+1123,20526.4087778185,29638.8080981192,50 or less,Post 1999,Owner-occupied,5,mid terraced,West Midlands,England,1
+1124,12366.5626209536,18965.5795066236,51 to 100,1945 to 1964,Council/Housing Association,6,end terrace,Wales,Wales,4
+1125,13572.4430000218,34527.9857386793,Over 250,Pre 1919,Privately rented,5,end terrace,South West,England,1
+1126,11686.2626647435,,51 to 100,1965 to 1983,Privately rented,6,mid terraced,York and Humber,England,5 or more
+1127,12187.1386010524,30236.3479291595,50 or less,1984 to 1992,Privately rented,5,converted flat,York and Humber,England,5 or more
+1128,17172.5623976664,34375.6222577031,201 to 250,1919 to 1944,Privately rented,5,semi-detached,North East,England,4
+1129,10763.6374771135,35745.9979295921,Over 250,1919 to 1944,Owner-occupied,5,purpose built flat,London,England,2
+1130,13836.0999634975,22590.8299746952,201 to 250,1919 to 1944,Owner-occupied,6,mid terraced,South East,England,5 or more
+1131,14035.1491771154,65298.0472285146,Over 250,Pre 1919,Privately rented,6,detached,South West,England,5 or more
